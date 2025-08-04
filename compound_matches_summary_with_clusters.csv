@@ -1,0 +1,263 @@
+file_name,compound,theoretical_mz,mz_observed,max_intensity,difference
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.058,34562,-0.0088
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0651,4206,-0.0006
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0427,15305,-0.0019
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0594,4537,-0.0083
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.0604,1570,-0.0022
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se76),262.9869,262.9934,1017,0.0066
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se77),263.9876,263.9933,247,0.0057
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se78),264.985,264.98,790,-0.0049
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9833,755,-0.0009
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2608,3047932,-0.0029
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0965,1182,-0.0005
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.3727,377847,-0.0029
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.297,15409,-0.0029
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.2976,16980,-0.003
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2953,41999,-0.0027
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2941,82870,-0.0031
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2954,16774,-0.002
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0685,19515,-0.0019
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1205,2421,0.0075
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1266,566,-0.0017
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0582,32189,-0.0086
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0653,4435,-0.0004
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0428,11813,-0.0018
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0736,5455,0.0059
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.0704,2887,0.0079
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se76),262.9869,262.994,861,0.0071
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se77),263.9876,263.9963,298,0.0087
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se78),264.985,264.9782,927,-0.0068
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9875,738,0.0033
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se82),268.9844,268.9777,139,-0.0067
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2612,3333804,-0.0025
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0972,992,0.0002
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.3728,417031,-0.0028
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.2969,16849,-0.003
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.2977,19092,-0.0029
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2955,45812,-0.0025
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2944,92126,-0.0028
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2955,18200,-0.0019
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0686,20832,-0.0018
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1207,2268,0.0077
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1264,549,-0.0019
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0654,2512,-0.0002
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.044,1404,-0.0006
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0608,1035,-0.0069
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2582,2638,-0.0055
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0949,364,-0.0021
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.3657,250,-0.0099
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0688,17981,-0.0016
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1264,401,-0.0019
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0594,32970,-0.0074
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0659,4671,0.0002
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0435,10943,-0.0011
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0604,4151,-0.0073
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.058,1472,-0.0046
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se76),262.9869,262.9949,1136,0.008
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se77),263.9876,263.9953,309,0.0077
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se78),264.985,264.9788,847,-0.0062
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9866,800,0.0024
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.262,3604813,-0.0017
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.098,814,0.0011
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.3736,390728,-0.002
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.2978,18459,-0.0021
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.2984,20650,-0.0021
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2965,49493,-0.0015
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2953,100899,-0.0019
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2967,19472,-0.0007
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0689,20294,-0.0015
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1263,442,-0.002
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0766,4349,0.0098
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.061,6597,-0.0047
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0377,15673,-0.0069
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.0557,3119,-0.0069
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9783,422,-0.0059
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0924,1415,-0.0045
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.3064,4613,0.0065
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.294,263,-0.0032
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0649,58365,-0.0055
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1149,4995,0.0019
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1224,1870,-0.0059
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0616,5591,-0.0041
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0386,15828,-0.006
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0584,1227,-0.0092
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9794,669,-0.0047
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0929,1564,-0.0041
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.301,4557,0.0011
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2906,234,-0.0066
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2902,193,-0.0072
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0653,49281,-0.0051
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1154,4786,0.0024
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1231,1522,-0.0052
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0761,3394,0.0093
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0617,6892,-0.004
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0388,14978,-0.0058
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0583,1283,-0.0094
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9774,755,-0.0068
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0932,1372,-0.0038
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.2942,1513,-0.0063
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2978,321,0.0007
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2994,216,0.0021
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0651,69271,-0.0053
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1162,4079,0.0032
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1232,1461,-0.0051
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,1-Octadecene [M+H]+,253.2895,253.2864,1218,-0.0031
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0599,10543,-0.0069
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0662,3954,0.0006
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0446,6470,0
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0608,4609,-0.0069
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.0547,1685,-0.0079
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9896,606,0.0054
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2636,2626540,-0.0001
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0977,655,0.0007
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,TOP [M+H]+,371.3807,371.381,95248,0.0003
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.3764,2477881,0.0008
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.3008,1412472,0.0009
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.3013,1568491,0.0007
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2995,3822567,0.0015
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2984,7330368,0.0012
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2995,1506138,0.0021
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0692,28772,-0.0012
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1271,3410,-0.0012
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0594,11456,-0.0074
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0659,3757,0.0002
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0441,6254,-0.0005
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0597,4877,-0.008
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9904,775,0.0063
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2631,3020503,-0.0006
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0968,469,-0.0002
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,TOP [M+H]+,371.3807,371.3806,94420,-0.0001
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.3756,2033602,0
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.3002,1511664,0.0003
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.3007,1670008,0.0001
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2988,4082455,0.0008
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2977,7951387,0.0005
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2987,1632970,0.0013
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0692,21448,-0.0012
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1259,336,-0.0024
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0593,10681,-0.0075
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0659,3177,0.0002
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0439,5882,-0.0007
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0596,4374,-0.0081
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9884,738,0.0043
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2631,3082302,-0.0006
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0966,442,-0.0003
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,TOP [M+H]+,371.3807,371.3802,87064,-0.0005
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.3753,2136198,-0.0003
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.2998,1554863,-0.0001
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.3003,1721971,-0.0003
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2982,4215516,0.0002
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2971,8221581,-0.0001
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2983,1685415,0.0009
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.069,20341,-0.0014
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1226,1777,0.0095
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.127,352,-0.0012
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0585,4979,-0.0083
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0652,2414,-0.0005
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0431,3657,-0.0015
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0603,2699,-0.0074
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.0583,974,-0.0043
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se76),262.9869,262.9841,173,-0.0028
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se78),264.985,264.9769,134,-0.0081
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.99,328,0.0058
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2604,2019477,-0.0033
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.096,615,-0.001
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.372,128312,-0.0036
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.2966,4177,-0.0033
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.2965,4775,-0.0041
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2948,11117,-0.0032
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2933,21302,-0.0039
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2944,4395,-0.003
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0687,13640,-0.0017
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1209,2341,0.0079
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1265,608,-0.0018
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0584,6328,-0.0084
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0654,2384,-0.0003
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0434,4303,-0.0012
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0605,2753,-0.0072
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.0608,1043,-0.0017
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se76),262.9869,262.9816,253,-0.0053
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se78),264.985,264.9764,215,-0.0086
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9849,304,0.0007
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2607,2866275,-0.003
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0963,697,-0.0007
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.372,138481,-0.0036
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.2965,4444,-0.0034
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.2963,4992,-0.0043
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2946,11493,-0.0034
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2932,23024,-0.004
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2942,4806,-0.0031
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0688,13378,-0.0016
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.123,2124,0.01
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1265,458,-0.0018
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,3-MPTMS [M+H]+,197.0668,197.0584,7305,-0.0084
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Aniline [M+H]+,94.0657,94.0654,2804,-0.0003
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Coumarin [M+H]+,147.0446,147.0431,4717,-0.0015
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphine [M+H]+,187.0677,187.0605,2871,-0.0072
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphine oxide [M+H]+,203.0626,203.0624,932,-0.0002
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se76),262.9869,262.9953,247,0.0084
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se80),266.9842,266.9828,376,-0.0014
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphine selenide [M+H]+ (Se82),268.9844,268.98,146,-0.0044
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Oleic acid [M+H]+,283.2637,283.2601,3191109,-0.0036
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Piperidine [M+H]+,86.097,86.0957,628,-0.0013
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,TOPO [M+H]+,387.3756,387.371,157588,-0.0046
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se76),447.2999,447.2949,5176,-0.005
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se77),448.3006,448.2955,5796,-0.0051
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se78),449.298,449.2934,13138,-0.0045
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se80),451.2972,451.2919,25913,-0.0053
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,TOPSe [M+H]+ (Se82),453.2974,453.2928,5439,-0.0046
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Toluene [M+H]+,93.0704,93.0686,16775,-0.0018
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Triethanolamine [M+H]+,150.113,150.1211,1960,0.008
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Triethylamine [M+H]+,102.1283,102.1262,536,-0.0021
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,PbSe,286.16,286.1523,2129,-0.0077
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,PbSe,286.16,286.1769,426,0.0169
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,PbSe,286.16,286.1636,751,0.0037
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,PbSe,286.16,286.1638,1424,0.0038
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe,286.16,286.1592,1578,-0.0007
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,PbSe,286.16,286.1793,740,0.0193
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,PbSe,286.16,286.147,1440,-0.013
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,PbSe,286.16,286.1528,2178,-0.0072
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,PbSe,286.16,286.1526,2257,-0.0074
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,PbSe,286.16,286.1574,849,-0.0026
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe,286.16,286.1596,909,-0.0004
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1603,10093,-0.0076
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.149,4078,-0.0188
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1606,5147,-0.0073
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1622,5369,-0.0057
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1499,7161,-0.018
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1502,7096,-0.0177
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1602,4744,-0.0077
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1634,9866,-0.0045
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1532,728,-0.0147
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1574,10293,-0.0105
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1502,4610,-0.0177
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe [M+H]+,287.1679,287.1648,4870,-0.0031
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,PbSe2,365.12,365.1367,2583,0.0167
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,PbSe2,365.12,365.1191,412,-0.0009
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,PbSe2,365.12,365.1146,503,-0.0054
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,PbSe2,365.12,365.115,595,-0.005
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe2,365.12,365.104,776,-0.016
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,PbSe2,365.12,365.1303,712,0.0103
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,PbSe2,365.12,365.1347,493,0.0147
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,PbSe2,365.12,365.1231,1041,0.0031
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,PbSe2,365.12,365.1312,2343,0.0112
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,PbSe2,365.12,365.1389,2270,0.0189
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,PbSe2,365.12,365.1361,379,0.0161
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe2,365.12,365.1387,936,0.0187
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1389,1206,0.011
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1466,167,0.0188
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1423,363,0.0144
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1344,492,0.0064
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1084,420,-0.0195
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1467,209,0.0188
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1357,478,0.0078
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1418,1166,0.0139
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1442,958,0.0163
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.1458,183,0.0179
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,PbSe2 [M+H]+,366.1279,366.133,294,0.0051
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Pb2Se,493.36,493.3526,615,-0.0074
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Pb2Se,493.36,493.3518,1057,-0.0081
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Pb2Se,493.36,493.3636,210,0.0037
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Pb2Se [M+H]+,494.3679,494.3828,296,0.015
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Pb2Se [M+H]+,494.3679,494.3481,427,-0.0198
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Pb2Se [M+H]+,494.3679,494.3665,296,-0.0014

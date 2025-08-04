@@ -1,0 +1,399 @@
+compound,base_compound,isotope_info,neutral_formula,ion_formula,mass_type,calculated_mz
+Water [M+H]+,Water,,H2O,H3O,protonated,19.023227188817746
+Water [M+NH4]+,Water,,H2O,H6NO,ammoniated,36.053752662316995
+Water [M+Na]+,Water,,H2O,H2NaO,sodiated,41.00505571582199
+Water [M+K]+,Water,,H2O,H2KO,potassiated,57.11358755938475
+Water [2M+H]+,Water,,H4O2,H5O2,dimer_protonated,37.03851362373973
+Phosphine [M+H]+,Phosphine,,PH3,H4P,protonated,35.00552464558304
+Phosphine [M+NH4]+,Phosphine,,PH3,H7NP,ammoniated,52.03605011908229
+Phosphine [M+Na]+,Phosphine,,PH3,H3NaP,sodiated,56.98735317258728
+Phosphine [M+K]+,Phosphine,,PH3,H3KP,potassiated,73.09588501615004
+Phosphine [2M+H]+,Phosphine,,H6P2,H7P2,dimer_protonated,69.00310853727031
+Acetonitrile [M+H]+,Acetonitrile,,C2H3N,C2H4N,protonated,42.05993802092393
+Acetonitrile [M+NH4]+,Acetonitrile,,C2H3N,C2H7N2,ammoniated,59.090463494423176
+Acetonitrile [M+Na]+,Acetonitrile,,C2H3N,C2H3NNa,sodiated,64.04176654792818
+Acetonitrile [M+K]+,Acetonitrile,,C2H3N,C2H3KN,potassiated,80.15029839149094
+Acetonitrile [2M+H]+,Acetonitrile,,C4H6N2,C4H7N2,dimer_protonated,83.1119352879521
+Nitrogen dioxide [M+H]+,Nitrogen dioxide,,NO2,HNO2,protonated,47.013453819968674
+Nitrogen dioxide [M+NH4]+,Nitrogen dioxide,,NO2,H4N2O2,ammoniated,64.04397929346793
+Nitrogen dioxide [M+Na]+,Nitrogen dioxide,,NO2,NNaO2,sodiated,68.99528234697291
+Nitrogen dioxide [M+K]+,Nitrogen dioxide,,NO2,KNO2,potassiated,85.10381419053567
+Nitrogen dioxide [2M+H]+,Nitrogen dioxide,,N2O4,HN2O4,dimer_protonated,93.01896688604158
+Phosphine oxide [M+H]+,Phosphine oxide,,PH3O,H4OP,protonated,51.0049295727135
+Phosphine oxide [M+NH4]+,Phosphine oxide,,PH3O,H7NOP,ammoniated,68.03545504621275
+Phosphine oxide [M+Na]+,Phosphine oxide,,PH3O,H3NaOP,sodiated,72.98675809971775
+Phosphine oxide [M+K]+,Phosphine oxide,,PH3O,H3KOP,potassiated,89.0952899432805
+Phosphine oxide [2M+H]+,Phosphine oxide,,H6O2P2,H7O2P2,dimer_protonated,101.00191839153125
+Potassium hydroxide [M+H]+,Potassium hydroxide,,KOH,H2KO,protonated,57.11358755938475
+Potassium hydroxide [M+NH4]+,Potassium hydroxide,,KOH,H5KNO,ammoniated,74.144113032884
+Potassium hydroxide [M+Na]+,Potassium hydroxide,,KOH,HKNaO,sodiated,79.09541608638898
+Potassium hydroxide [M+K]+,Potassium hydroxide,,KOH,HK2O,potassiated,95.20394792995174
+Potassium hydroxide [2M+H]+,Potassium hydroxide,,H2K2O2,H3K2O2,dimer_protonated,113.21923436487373
+Acetone [M+H]+,Acetone,,C3H6O,C3H7O,protonated,59.08719789469416
+Acetone [M+NH4]+,Acetone,,C3H6O,C3H10NO,ammoniated,76.11772336819341
+Acetone [M+Na]+,Acetone,,C3H6O,C3H6NaO,sodiated,81.0690264216984
+Acetone [M+K]+,Acetone,,C3H6O,C3H6KO,potassiated,97.17755826526115
+Acetone [2M+H]+,Acetone,,C6H12O2,C6H13O2,dimer_protonated,117.16645503549256
+Silica [M+H]+,Silica,,SiO2,HO2Si,protonated,61.09224931457557
+Silica [M+NH4]+,Silica,,SiO2,H4NO2Si,ammoniated,78.12277478807482
+Silica [M+Na]+,Silica,,SiO2,NaO2Si,sodiated,83.07407784157981
+Silica [M+K]+,Silica,,SiO2,KO2Si,potassiated,99.18260968514257
+Silica [2M+H]+,Silica,,O4Si2,HO4Si2,dimer_protonated,121.17655787525538
+Isopropanol [M+H]+,Isopropanol,,C3H8O,C3H9O,protonated,61.103079402485676
+Isopropanol [M+NH4]+,Isopropanol,,C3H8O,C3H12NO,ammoniated,78.13360487598491
+Isopropanol [M+Na]+,Isopropanol,,C3H8O,C3H8NaO,sodiated,83.08490792948992
+Isopropanol [M+K]+,Isopropanol,,C3H8O,C3H8KO,potassiated,99.19343977305267
+Isopropanol [2M+H]+,Isopropanol,,C6H16O2,C6H17O2,dimer_protonated,121.1982180510756
+Isopropanol [M-H2O+H]+,Isopropanol,,C3H6,C3H7,dehydrated_protonated,43.087792967563686
+"1,2-Ethylenediamine [M+H]+","1,2-Ethylenediamine",,C2H8N2,C2H9N2,protonated,61.106345002214695
+"1,2-Ethylenediamine [M+NH4]+","1,2-Ethylenediamine",,C2H8N2,C2H12N3,ammoniated,78.13687047571395
+"1,2-Ethylenediamine [M+Na]+","1,2-Ethylenediamine",,C2H8N2,C2H8N2Na,sodiated,83.08817352921895
+"1,2-Ethylenediamine [M+K]+","1,2-Ethylenediamine",,C2H8N2,C2H8KN2,potassiated,99.1967053727817
+"1,2-Ethylenediamine [2M+H]+","1,2-Ethylenediamine",,C4H16N4,C4H17N4,dimer_protonated,121.20474925053364
+Ethylene glycol [M+H]+,Ethylene glycol,,C2H6O2,C2H7O2,protonated,63.07586692506017
+Ethylene glycol [M+NH4]+,Ethylene glycol,,C2H6O2,C2H10NO2,ammoniated,80.10639239855942
+Ethylene glycol [M+Na]+,Ethylene glycol,,C2H6O2,C2H6NaO2,sodiated,85.05769545206441
+Ethylene glycol [M+K]+,Ethylene glycol,,C2H6O2,C2H6KO2,potassiated,101.16622729562717
+Ethylene glycol [2M+H]+,Ethylene glycol,,C4H12O4,C4H13O4,dimer_protonated,125.14379309622458
+Ethylene glycol [M-H2O+H]+,Ethylene glycol,,C2H4O,C2H5O,dehydrated_protonated,45.06058049013818
+Nitric acid [M+H]+,Nitric acid,,HNO3,H2NO3,protonated,64.0207995009949
+Nitric acid [M+NH4]+,Nitric acid,,HNO3,H5N2O3,ammoniated,81.05132497449415
+Nitric acid [M+Na]+,Nitric acid,,HNO3,HNNaO3,sodiated,86.00262802799914
+Nitric acid [M+K]+,Nitric acid,,HNO3,HKNO3,potassiated,102.1111598715619
+Nitric acid [2M+H]+,Nitric acid,,H2N2O6,H3N2O6,dimer_protonated,127.03365824809404
+DMSO [M+H]+,DMSO,,C2H6OS,C2H7OS,protonated,79.1412492328557
+DMSO [M+NH4]+,DMSO,,C2H6OS,C2H10NOS,ammoniated,96.17177470635497
+DMSO [M+Na]+,DMSO,,C2H6OS,C2H6NaOS,sodiated,101.12307775985994
+DMSO [M+K]+,DMSO,,C2H6OS,C2H6KOS,potassiated,117.2316096034227
+DMSO [2M+H]+,DMSO,,C4H12O2S2,C4H13O2S2,dimer_protonated,157.27455771181565
+DMSO-d6 [M+H]+,DMSO-d6,,C2D6OS,C2HD6OS,protonated,85.17821537628114
+DMSO-d6 [M+NH4]+,DMSO-d6,,C2D6OS,C2H4D6NOS,ammoniated,102.20874084978041
+DMSO-d6 [M+Na]+,DMSO-d6,,C2D6OS,C2D6NaOS,sodiated,107.16004390328538
+DMSO-d6 [M+K]+,DMSO-d6,,C2D6OS,C2D6KOS,potassiated,123.26857574684817
+DMSO-d6 [2M+H]+,DMSO-d6,,C4D12O2S2,C4HD12O2S2,dimer_protonated,169.34848999866654
+Piperidine [M+H]+,Piperidine,,C5H11N,C5H12N,protonated,86.15567174238338
+Piperidine [M+NH4]+,Piperidine,,C5H11N,C5H15N2,ammoniated,103.18619721588261
+Piperidine [M+Na]+,Piperidine,,C5H11N,C5H11NNa,sodiated,108.13750026938763
+Piperidine [M+K]+,Piperidine,,C5H11N,C5H11KN,potassiated,124.24603211295039
+Piperidine [2M+H]+,Piperidine,,C10H22N2,C10H23N2,dimer_protonated,171.303402730871
+Hexanes [M+H]+,Hexanes,,C6H14,C6H15,protonated,87.18352668902313
+Hexanes [M+NH4]+,Hexanes,,C6H14,C6H18N,ammoniated,104.21405216252239
+Hexanes [M+Na]+,Hexanes,,C6H14,C6H14Na,sodiated,109.16535521602736
+Hexanes [M+K]+,Hexanes,,C6H14,C6H14K,potassiated,125.27388705959012
+Hexanes [2M+H]+,Hexanes,,C12H28,C12H29,dimer_protonated,173.3591126241505
+Toluene [M+H]+,Toluene,,C7H8,C7H9,protonated,93.14661806241304
+Toluene [M+NH4]+,Toluene,,C7H8,C7H12N,ammoniated,110.1771435359123
+Toluene [M+Na]+,Toluene,,C7H8,C7H8Na,sodiated,115.12844658941728
+Toluene [M+K]+,Toluene,,C7H8,C7H8K,potassiated,131.23697843298004
+Toluene [2M+H]+,Toluene,,C14H16,C14H17,dimer_protonated,185.28529537093033
+Aniline [M+H]+,Aniline,,C6H7N,C6H8N,protonated,94.13464462356481
+Aniline [M+NH4]+,Aniline,,C6H7N,C6H11N2,ammoniated,111.16517009706405
+Aniline [M+Na]+,Aniline,,C6H7N,C6H7NNa,sodiated,116.11647315056905
+Aniline [M+K]+,Aniline,,C6H7N,C6H7KN,potassiated,132.2250049941318
+Aniline [2M+H]+,Aniline,,C12H14N2,C12H15N2,dimer_protonated,187.26134849323384
+Silicic acid [M+H]+,Silicic acid,,H4SiO4,H5O4Si,protonated,97.12282218441955
+Silicic acid [M+NH4]+,Silicic acid,,H4SiO4,H8NO4Si,ammoniated,114.15334765791879
+Silicic acid [M+Na]+,Silicic acid,,H4SiO4,H4NaO4Si,sodiated,119.10465071142379
+Silicic acid [M+K]+,Silicic acid,,H4SiO4,H4KO4Si,potassiated,135.21318255498656
+Silicic acid [2M+H]+,Silicic acid,,H8O8Si2,H9O8Si2,dimer_protonated,193.23770361494334
+Phosphoric acid [M+H]+,Phosphoric acid,,H3PO4,H4O4P,protonated,99.0031443541049
+Phosphoric acid [M+NH4]+,Phosphoric acid,,H3PO4,H7NO4P,ammoniated,116.03366982760416
+Phosphoric acid [M+Na]+,Phosphoric acid,,H3PO4,H3NaO4P,sodiated,120.98497288110914
+Phosphoric acid [M+K]+,Phosphoric acid,,H3PO4,H3KO4P,potassiated,137.0935047246719
+Phosphoric acid [2M+H]+,Phosphoric acid,,H6O8P2,H7O8P2,dimer_protonated,196.99834795431406
+Triethylamine [M+H]+,Triethylamine,,C6H15N,C6H16N,protonated,102.19817065473087
+Triethylamine [M+NH4]+,Triethylamine,,C6H15N,C6H19N2,ammoniated,119.22869612823011
+Triethylamine [M+Na]+,Triethylamine,,C6H15N,C6H15NNa,sodiated,124.1799991817351
+Triethylamine [M+K]+,Triethylamine,,C6H15N,C6H15KN,potassiated,140.28853102529786
+Triethylamine [2M+H]+,Triethylamine,,C12H30N2,C12H31N2,dimer_protonated,203.388400555566
+Selenium dioxide [M+H]+,Selenium dioxide,80Se,SeO2,HO2Se,protonated,112.92327190815669
+Selenium dioxide [M+NH4]+,Selenium dioxide,80Se,SeO2,H4NO2Se,ammoniated,129.95379738165593
+Selenium dioxide [M+Na]+,Selenium dioxide,80Se,SeO2,NaO2Se,sodiated,134.90510043516093
+Selenium dioxide [M+K]+,Selenium dioxide,80Se,SeO2,KO2Se,potassiated,151.0136322787237
+Selenium dioxide [2M+H]+,Selenium dioxide,80Se,O4Se2,HO4Se2,dimer_protonated,224.83860306241763
+PBG fragment 1 [M+H]+,PBG fragment 1,,C7H7NO,C7H8NO,protonated,122.14478544745974
+PBG fragment 1 [M+NH4]+,PBG fragment 1,,C7H7NO,C7H11N2O,ammoniated,139.17531092095896
+PBG fragment 1 [M+Na]+,PBG fragment 1,,C7H7NO,C7H7NNaO,sodiated,144.12661397446396
+PBG fragment 1 [M+K]+,PBG fragment 1,,C7H7NO,C7H7KNO,potassiated,160.23514581802672
+PBG fragment 1 [2M+H]+,PBG fragment 1,,C14H14N2O2,C14H15N2O2,dimer_protonated,243.2816301410237
+PBG fragment 2 [M+H]+,PBG fragment 2,,C7H8O2,C7H9O2,protonated,125.14542791667398
+PBG fragment 2 [M+NH4]+,PBG fragment 2,,C7H8O2,C7H12NO2,ammoniated,142.17595339017322
+PBG fragment 2 [M+Na]+,PBG fragment 2,,C7H8O2,C7H8NaO2,sodiated,147.12725644367822
+PBG fragment 2 [M+K]+,PBG fragment 2,,C7H8O2,C7H8KO2,potassiated,163.23578828724098
+PBG fragment 2 [2M+H]+,PBG fragment 2,,C14H16O4,C14H17O4,dimer_protonated,249.2829150794522
+Quinoline [M+H]+,Quinoline,,C9H7N,C9H8N,protonated,130.1668523138582
+Quinoline [M+NH4]+,Quinoline,,C9H7N,C9H11N2,ammoniated,147.19737778735742
+Quinoline [M+Na]+,Quinoline,,C9H7N,C9H7NNa,sodiated,152.1486808408624
+Quinoline [M+K]+,Quinoline,,C9H7N,C9H7KN,potassiated,168.25721268442518
+Quinoline [2M+H]+,Quinoline,,C18H14N2,C18H15N2,dimer_protonated,259.32576387382056
+Selenic acid [M+H]+,Selenic acid,80Se,H2SeO4,H3O4Se,protonated,146.93796327020914
+Selenic acid [M+NH4]+,Selenic acid,80Se,H2SeO4,H6NO4Se,ammoniated,163.9684887437084
+Selenic acid [M+Na]+,Selenic acid,80Se,H2SeO4,H2NaO4Se,sodiated,168.9197917972134
+Selenic acid [M+K]+,Selenic acid,80Se,H2SeO4,H2KO4Se,potassiated,185.02832364077614
+Selenic acid [2M+H]+,Selenic acid,80Se,H4O8Se2,H5O8Se2,dimer_protonated,292.8679857865226
+Coumarin [M+H]+,Coumarin,,C9H6O2,C9H7O2,protonated,147.15101820241136
+Coumarin [M+NH4]+,Coumarin,,C9H6O2,C9H10NO2,ammoniated,164.18154367591063
+Coumarin [M+Na]+,Coumarin,,C9H6O2,C9H6NaO2,sodiated,169.13284672941563
+Coumarin [M+K]+,Coumarin,,C9H6O2,C9H6KO2,potassiated,185.2413785729784
+Coumarin [2M+H]+,Coumarin,,C18H12O4,C18H13O4,dimer_protonated,293.294095650927
+Lead stearate [M+H]+,Lead stearate,,C6H15NO3,C6H16NO3,protonated,150.19638543612228
+Lead stearate [M+NH4]+,Lead stearate,,C6H15NO3,C6H19N2O3,ammoniated,167.22691090962152
+Lead stearate [M+Na]+,Lead stearate,,C6H15NO3,C6H15NNaO3,sodiated,172.1782139631265
+Lead stearate [M+K]+,Lead stearate,,C6H15NO3,C6H15KNO3,potassiated,188.28674580668925
+Lead stearate [2M+H]+,Lead stearate,,C12H30N2O6,C12H31N2O6,dimer_protonated,299.3848301183488
+Triethanolamine [M+H]+,Triethanolamine,,C6H15NO3,C6H16NO3,protonated,150.19638543612228
+Triethanolamine [M+NH4]+,Triethanolamine,,C6H15NO3,C6H19N2O3,ammoniated,167.22691090962152
+Triethanolamine [M+Na]+,Triethanolamine,,C6H15NO3,C6H15NNaO3,sodiated,172.1782139631265
+Triethanolamine [M+K]+,Triethanolamine,,C6H15NO3,C6H15KNO3,potassiated,188.28674580668925
+Triethanolamine [2M+H]+,Triethanolamine,,C12H30N2O6,C12H31N2O6,dimer_protonated,299.3848301183488
+Triethanolamine [M-H2O+H]+,Triethanolamine,,C6H13NO2,C6H14NO2,dehydrated_protonated,132.1810990012003
+WPBG-027 fragment [M+H]+,WPBG-027 fragment,,C9H9NO2,C9H10NO2,protonated,164.18154367591063
+WPBG-027 fragment [M+NH4]+,WPBG-027 fragment,,C9H9NO2,C9H13N2O2,ammoniated,181.2120691494099
+WPBG-027 fragment [M+Na]+,WPBG-027 fragment,,C9H9NO2,C9H9NNaO2,sodiated,186.16337220291487
+WPBG-027 fragment [M+K]+,WPBG-027 fragment,,C9H9NO2,C9H9KNO2,potassiated,202.27190404647763
+WPBG-027 fragment [2M+H]+,WPBG-027 fragment,,C18H18N2O4,C18H19N2O4,dimer_protonated,327.3551465979255
+Diphenylphosphine [M+H]+,Diphenylphosphine,,C12H11P,C12H12P,protonated,187.1978814379226
+Diphenylphosphine [M+NH4]+,Diphenylphosphine,,C12H11P,C12H15NP,ammoniated,204.22840691142187
+Diphenylphosphine [M+Na]+,Diphenylphosphine,,C12H11P,C12H11NaP,sodiated,209.17970996492681
+Diphenylphosphine [M+K]+,Diphenylphosphine,,C12H11P,C12H11KP,potassiated,225.2882418084896
+Diphenylphosphine [2M+H]+,Diphenylphosphine,,C24H22P2,C24H23P2,dimer_protonated,373.3878221219495
+Diphenylphosphine oxide [M+H]+,Diphenylphosphine oxide,,C12H11OP,C12H12OP,protonated,203.19728636505306
+Diphenylphosphine oxide [M+NH4]+,Diphenylphosphine oxide,,C12H11OP,C12H15NOP,ammoniated,220.22781183855233
+Diphenylphosphine oxide [M+Na]+,Diphenylphosphine oxide,,C12H11OP,C12H11NaOP,sodiated,225.17911489205727
+Diphenylphosphine oxide [M+K]+,Diphenylphosphine oxide,,C12H11OP,C12H11KOP,potassiated,241.28764673562006
+Diphenylphosphine oxide [2M+H]+,Diphenylphosphine oxide,,C24H22O2P2,C24H23O2P2,dimer_protonated,405.3866319762104
+3-MPTMS [M+H]+,3-MPTMS,,C6H16O3SSi,C6H17O3SSi,protonated,197.34790891955095
+3-MPTMS [M+NH4]+,3-MPTMS,,C6H16O3SSi,C6H20NO3SSi,ammoniated,214.3784343930502
+3-MPTMS [M+Na]+,3-MPTMS,,C6H16O3SSi,C6H16NaO3SSi,sodiated,219.32973744655519
+3-MPTMS [M+K]+,3-MPTMS,,C6H16O3SSi,C6H16KO3SSi,potassiated,235.43826929011794
+3-MPTMS [2M+H]+,3-MPTMS,,C12H32O6S2Si2,C12H33O6S2Si2,dimer_protonated,393.68787708520614
+Diphenylphosphinic acid [M+H]+,Diphenylphosphinic acid,,C12H11O2P,C12H12O2P,protonated,219.19669129218357
+Diphenylphosphinic acid [M+NH4]+,Diphenylphosphinic acid,,C12H11O2P,C12H15NO2P,ammoniated,236.22721676568278
+Diphenylphosphinic acid [M+Na]+,Diphenylphosphinic acid,,C12H11O2P,C12H11NaO2P,sodiated,241.17851981918778
+Diphenylphosphinic acid [M+K]+,Diphenylphosphinic acid,,C12H11O2P,C12H11KO2P,potassiated,257.2870516627505
+Diphenylphosphinic acid [2M+H]+,Diphenylphosphinic acid,,C24H22O4P2,C24H23O4P2,dimer_protonated,437.38544183047134
+Lead oxide [M+H]+,Lead oxide,204Pb,PbO,HOPb,protonated,220.98038928102625
+Lead oxide [M+NH4]+,Lead oxide,204Pb,PbO,H4NOPb,ammoniated,238.0109147545255
+Lead oxide [M+Na]+,Lead oxide,204Pb,PbO,NaOPb,sodiated,242.9622178080305
+Lead oxide [M+K]+,Lead oxide,204Pb,PbO,KOPb,potassiated,259.07074965159325
+Lead oxide [2M+H]+,Lead oxide,204Pb,O2Pb2,HO2Pb2,dimer_protonated,440.9528378081567
+Lead hydroxide [M+H]+,Lead hydroxide,204Pb,PbOH2,H3OPb,protonated,222.99627078881775
+Lead hydroxide [M+NH4]+,Lead hydroxide,204Pb,PbOH2,H6NOPb,ammoniated,240.02679626231702
+Lead hydroxide [M+Na]+,Lead hydroxide,204Pb,PbOH2,H2NaOPb,sodiated,244.978099315822
+Lead hydroxide [M+K]+,Lead hydroxide,204Pb,PbOH2,H2KOPb,potassiated,261.08663115938475
+Lead hydroxide [2M+H]+,Lead hydroxide,204Pb,H4O2Pb2,H5O2Pb2,dimer_protonated,444.98460082373975
+PBG [M+H]+,PBG,,C14H17NO2,C14H18NO2,protonated,232.298749190899
+PBG [M+NH4]+,PBG,,C14H17NO2,C14H21N2O2,ammoniated,249.32927466439827
+PBG [M+Na]+,PBG,,C14H17NO2,C14H17NNaO2,sodiated,254.28057771790324
+PBG [M+K]+,PBG,,C14H17NO2,C14H17KNO2,potassiated,270.389109561466
+PBG [2M+H]+,PBG,,C28H34N2O4,C28H35N2O4,dimer_protonated,463.58955762790225
+WPBG-027 [M+H]+,WPBG-027,,C14H17NO2,C14H18NO2,protonated,232.298749190899
+WPBG-027 [M+NH4]+,WPBG-027,,C14H17NO2,C14H21N2O2,ammoniated,249.32927466439827
+WPBG-027 [M+Na]+,WPBG-027,,C14H17NO2,C14H17NNaO2,sodiated,254.28057771790324
+WPBG-027 [M+K]+,WPBG-027,,C14H17NO2,C14H17KNO2,potassiated,270.389109561466
+WPBG-027 [2M+H]+,WPBG-027,,C28H34N2O4,C28H35N2O4,dimer_protonated,463.58955762790225
+TBA+ [M+H]+,TBA+,,C16H36N,C16H37N,protonated,243.4722854541864
+TBA+ [M+NH4]+,TBA+,,C16H36N,C16H40N2,ammoniated,260.50281092768563
+TBA+ [M+Na]+,TBA+,,C16H36N,C16H36NNa,sodiated,265.45411398119063
+TBA+ [M+K]+,TBA+,,C16H36N,C16H36KN,potassiated,281.56264582475336
+TBA+ [2M+H]+,TBA+,,C32H72N2,C32H73N2,dimer_protonated,485.93663015447703
+1-Octadecene [M+H]+,1-Octadecene,,C18H36,C18H37,protonated,253.48705403590333
+1-Octadecene [M+NH4]+,1-Octadecene,,C18H36,C18H40N,ammoniated,270.51757950940254
+1-Octadecene [M+Na]+,1-Octadecene,,C18H36,C18H36Na,sodiated,275.4688825629076
+1-Octadecene [M+K]+,1-Octadecene,,C18H36,C18H36K,potassiated,291.5774144064703
+1-Octadecene [2M+H]+,1-Octadecene,,C36H72,C36H73,dimer_protonated,505.9661673179109
+Palmitic acid - H2O [M+H]+,Palmitic acid - H2O,,C16H30O,C16H31O,protonated,239.41734264613032
+Palmitic acid - H2O [M+NH4]+,Palmitic acid - H2O,,C16H30O,C16H34NO,ammoniated,256.4478681196296
+Palmitic acid - H2O [M+Na]+,Palmitic acid - H2O,,C16H30O,C16H30NaO,sodiated,261.39917117313456
+Palmitic acid - H2O [M+K]+,Palmitic acid - H2O,,C16H30O,C16H30KO,potassiated,277.5077030166973
+Palmitic acid - H2O [2M+H]+,Palmitic acid - H2O,,C32H60O2,C32H61O2,dimer_protonated,477.8267445383649
+Palmitic acid [M+H]+,Palmitic acid,,C16H32O2,C16H33O2,protonated,257.4326290810523
+Palmitic acid [M+NH4]+,Palmitic acid,,C16H32O2,C16H36NO2,ammoniated,274.4631545545516
+Palmitic acid [M+Na]+,Palmitic acid,,C16H32O2,C16H32NaO2,sodiated,279.4144576080565
+Palmitic acid [M+K]+,Palmitic acid,,C16H32O2,C16H32KO2,potassiated,295.5229894516193
+Palmitic acid [2M+H]+,Palmitic acid,,C32H64O4,C32H65O4,dimer_protonated,513.8573174082088
+Palmitic acid [M-H2O+H]+,Palmitic acid,,C16H30O,C16H31O,dehydrated_protonated,239.41734264613032
+Palmitic acid [M-CO2+H]+,Palmitic acid,,C15H32,C15H33,decarboxylated_protonated,213.4230833300269
+Diphenylphosphine selenide [M+H]+,Diphenylphosphine selenide,74Se,C12H11PSe,C12H12PSe,protonated,261.1203578379226
+Diphenylphosphine selenide [M+NH4]+,Diphenylphosphine selenide,74Se,C12H11PSe,C12H15NPSe,ammoniated,278.15088331142186
+Diphenylphosphine selenide [M+Na]+,Diphenylphosphine selenide,74Se,C12H11PSe,C12H11NaPSe,sodiated,283.1021863649268
+Diphenylphosphine selenide [M+K]+,Diphenylphosphine selenide,74Se,C12H11PSe,C12H11KPSe,potassiated,299.2107182084896
+Diphenylphosphine selenide [2M+H]+,Diphenylphosphine selenide,74Se,C24H22PSe2,C24H23PSe2,dimer_protonated,490.2590132919495
+Diphenylphosphine selenide [M+H]+,Diphenylphosphine selenide,76Se,C12H11PSe,C12H12PSe,protonated,263.1170950379226
+Diphenylphosphine selenide [M+NH4]+,Diphenylphosphine selenide,76Se,C12H11PSe,C12H15NPSe,ammoniated,280.1476205114219
+Diphenylphosphine selenide [M+Na]+,Diphenylphosphine selenide,76Se,C12H11PSe,C12H11NaPSe,sodiated,285.09892356492685
+Diphenylphosphine selenide [M+K]+,Diphenylphosphine selenide,76Se,C12H11PSe,C12H11KPSe,potassiated,301.20745540848964
+Diphenylphosphine selenide [2M+H]+,Diphenylphosphine selenide,76Se,C24H22PSe2,C24H23PSe2,dimer_protonated,494.2524876919495
+Diphenylphosphine selenide [M+H]+,Diphenylphosphine selenide,77Se,C12H11PSe,C12H12PSe,protonated,264.1177954379226
+Diphenylphosphine selenide [M+NH4]+,Diphenylphosphine selenide,77Se,C12H11PSe,C12H15NPSe,ammoniated,281.1483209114219
+Diphenylphosphine selenide [M+Na]+,Diphenylphosphine selenide,77Se,C12H11PSe,C12H11NaPSe,sodiated,286.0996239649268
+Diphenylphosphine selenide [M+K]+,Diphenylphosphine selenide,77Se,C12H11PSe,C12H11KPSe,potassiated,302.2081558084896
+Diphenylphosphine selenide [2M+H]+,Diphenylphosphine selenide,77Se,C24H22PSe2,C24H23PSe2,dimer_protonated,496.2538884919495
+Diphenylphosphine selenide [M+H]+,Diphenylphosphine selenide,78Se,C12H11PSe,C12H12PSe,protonated,265.1151905379226
+Diphenylphosphine selenide [M+NH4]+,Diphenylphosphine selenide,78Se,C12H11PSe,C12H15NPSe,ammoniated,282.1457160114219
+Diphenylphosphine selenide [M+Na]+,Diphenylphosphine selenide,78Se,C12H11PSe,C12H11NaPSe,sodiated,287.0970190649268
+Diphenylphosphine selenide [M+K]+,Diphenylphosphine selenide,78Se,C12H11PSe,C12H11KPSe,potassiated,303.2055509084896
+Diphenylphosphine selenide [2M+H]+,Diphenylphosphine selenide,78Se,C24H22PSe2,C24H23PSe2,dimer_protonated,498.2486786919495
+Diphenylphosphine selenide [M+H]+,Diphenylphosphine selenide,80Se,C12H11PSe,C12H12PSe,protonated,267.1144027379226
+Diphenylphosphine selenide [M+NH4]+,Diphenylphosphine selenide,80Se,C12H11PSe,C12H15NPSe,ammoniated,284.14492821142187
+Diphenylphosphine selenide [M+Na]+,Diphenylphosphine selenide,80Se,C12H11PSe,C12H11NaPSe,sodiated,289.0962312649268
+Diphenylphosphine selenide [M+K]+,Diphenylphosphine selenide,80Se,C12H11PSe,C12H11KPSe,potassiated,305.2047631084896
+Diphenylphosphine selenide [2M+H]+,Diphenylphosphine selenide,80Se,C24H22PSe2,C24H23PSe2,dimer_protonated,502.2471030919495
+Diphenylphosphine selenide [M+H]+,Diphenylphosphine selenide,82Se,C12H11PSe,C12H12PSe,protonated,269.11458083792263
+Diphenylphosphine selenide [M+NH4]+,Diphenylphosphine selenide,82Se,C12H11PSe,C12H15NPSe,ammoniated,286.14510631142184
+Diphenylphosphine selenide [M+Na]+,Diphenylphosphine selenide,82Se,C12H11PSe,C12H11NaPSe,sodiated,291.0964093649268
+Diphenylphosphine selenide [M+K]+,Diphenylphosphine selenide,82Se,C12H11PSe,C12H11KPSe,potassiated,307.2049412084896
+Diphenylphosphine selenide [2M+H]+,Diphenylphosphine selenide,82Se,C24H22PSe2,C24H23PSe2,dimer_protonated,506.2474592919495
+Linoleic acid [M+H]+,Linoleic acid,,C18H34O2,C18H35O2,protonated,283.46998238237273
+Linoleic acid [M+NH4]+,Linoleic acid,,C18H34O2,C18H38NO2,ammoniated,300.50050785587194
+Linoleic acid [M+Na]+,Linoleic acid,,C18H34O2,C18H34NaO2,sodiated,305.451810909377
+Linoleic acid [M+K]+,Linoleic acid,,C18H34O2,C18H34KO2,potassiated,321.56034275293973
+Linoleic acid [2M+H]+,Linoleic acid,,C36H68O4,C36H69O4,dimer_protonated,565.9320240108497
+Linoleic acid [M-H2O+H]+,Linoleic acid,,C18H32O,C18H33O,dehydrated_protonated,265.4546959474508
+Linoleic acid [M-CO2+H]+,Linoleic acid,,C17H34,C17H35,decarboxylated_protonated,239.46043663134736
+Oleic acid - H2O [M+H]+,Oleic acid - H2O,,C18H32O,C18H33O,protonated,265.4546959474508
+Oleic acid - H2O [M+NH4]+,Oleic acid - H2O,,C18H32O,C18H36NO,ammoniated,282.48522142095
+Oleic acid - H2O [M+Na]+,Oleic acid - H2O,,C18H32O,C18H32NaO,sodiated,287.436524474455
+Oleic acid - H2O [M+K]+,Oleic acid - H2O,,C18H32O,C18H32KO,potassiated,303.54505631801777
+Oleic acid - H2O [2M+H]+,Oleic acid - H2O,,C36H64O2,C36H65O2,dimer_protonated,529.9014511410057
+Linoleic acid - H2O [M+H]+,Linoleic acid - H2O,,C18H30O,C18H31O,protonated,263.43881443965927
+Linoleic acid - H2O [M+NH4]+,Linoleic acid - H2O,,C18H30O,C18H34NO,ammoniated,280.4693399131585
+Linoleic acid - H2O [M+Na]+,Linoleic acid - H2O,,C18H30O,C18H30NaO,sodiated,285.4206429666635
+Linoleic acid - H2O [M+K]+,Linoleic acid - H2O,,C18H30O,C18H30KO,potassiated,301.5291748102262
+Linoleic acid - H2O [2M+H]+,Linoleic acid - H2O,,C36H60O2,C36H61O2,dimer_protonated,525.8696881254227
+Palmitoleic acid [M+H]+,Palmitoleic acid,,C18H34O2,C18H35O2,protonated,283.46998238237273
+Palmitoleic acid [M+NH4]+,Palmitoleic acid,,C18H34O2,C18H38NO2,ammoniated,300.50050785587194
+Palmitoleic acid [M+Na]+,Palmitoleic acid,,C18H34O2,C18H34NaO2,sodiated,305.451810909377
+Palmitoleic acid [M+K]+,Palmitoleic acid,,C18H34O2,C18H34KO2,potassiated,321.56034275293973
+Palmitoleic acid [2M+H]+,Palmitoleic acid,,C36H68O4,C36H69O4,dimer_protonated,565.9320240108497
+Stearic acid [M+H]+,Stearic acid,,C18H36O2,C18H37O2,protonated,285.48586389016424
+Stearic acid [M+NH4]+,Stearic acid,,C18H36O2,C18H40NO2,ammoniated,302.51638936366345
+Stearic acid [M+Na]+,Stearic acid,,C18H36O2,C18H36NaO2,sodiated,307.4676924171685
+Stearic acid [M+K]+,Stearic acid,,C18H36O2,C18H36KO2,potassiated,323.57622426073124
+Stearic acid [2M+H]+,Stearic acid,,C36H72O4,C36H73O4,dimer_protonated,569.9637870264328
+Stearic acid [M-H2O+H]+,Stearic acid,,C18H34O,C18H35O,dehydrated_protonated,267.4705774552423
+Stearic acid [M-CO2+H]+,Stearic acid,,C17H36,C17H37,decarboxylated_protonated,241.47631813913887
+Stearic acid - H2O [M+H]+,Stearic acid - H2O,,C18H34O,C18H35O,protonated,267.4705774552423
+Stearic acid - H2O [M+NH4]+,Stearic acid - H2O,,C18H34O,C18H38NO,ammoniated,284.5011029287415
+Stearic acid - H2O [M+Na]+,Stearic acid - H2O,,C18H34O,C18H34NaO,sodiated,289.45240598224655
+Stearic acid - H2O [M+K]+,Stearic acid - H2O,,C18H34O,C18H34KO,potassiated,305.5609378258093
+Stearic acid - H2O [2M+H]+,Stearic acid - H2O,,C36H68O2,C36H69O2,dimer_protonated,533.9332141565887
+Oleic acid [M+H]+,Oleic acid,,C18H34O2,C18H35O2,protonated,283.46998238237273
+Oleic acid [M+NH4]+,Oleic acid,,C18H34O2,C18H38NO2,ammoniated,300.50050785587194
+Oleic acid [M+Na]+,Oleic acid,,C18H34O2,C18H34NaO2,sodiated,305.451810909377
+Oleic acid [M+K]+,Oleic acid,,C18H34O2,C18H34KO2,potassiated,321.56034275293973
+Oleic acid [2M+H]+,Oleic acid,,C36H68O4,C36H69O4,dimer_protonated,565.9320240108497
+Oleic acid [M-H2O+H]+,Oleic acid,,C18H32O,C18H33O,dehydrated_protonated,265.4546959474508
+Oleic acid [M-CO2+H]+,Oleic acid,,C17H34,C17H35,decarboxylated_protonated,239.46043663134736
+Lead acetate [M+H]+,Lead acetate,204Pb,PbC4H6O4,C4H7O4Pb,protonated,323.06919217285
+Lead acetate [M+NH4]+,Lead acetate,204Pb,PbC4H6O4,C4H10NO4Pb,ammoniated,340.0997176463493
+Lead acetate [M+Na]+,Lead acetate,204Pb,PbC4H6O4,C4H6NaO4Pb,sodiated,345.05102069985423
+Lead acetate [M+K]+,Lead acetate,204Pb,PbC4H6O4,C4H6KO4Pb,potassiated,361.159552543417
+Lead acetate [2M+H]+,Lead acetate,204Pb,C8H12O8Pb2,C8H13O8Pb2,dimer_protonated,645.1304435918044
+TOP [M+H]+,TOP,,C24H51P,C24H52P,protonated,371.6443423549265
+TOP [M+NH4]+,TOP,,C24H51P,C24H55NP,ammoniated,388.6748678284257
+TOP [M+Na]+,TOP,,C24H51P,C24H51NaP,sodiated,393.62617088193076
+TOP [M+K]+,TOP,,C24H51P,C24H51KP,potassiated,409.7347027254935
+TOP [2M+H]+,TOP,,C48H102P2,C48H103P2,dimer_protonated,742.2807439559572
+TOPO [M+H]+,TOPO,,C24H51OP,C24H52OP,protonated,387.64374728205695
+TOPO [M+NH4]+,TOPO,,C24H51OP,C24H55NOP,ammoniated,404.67427275555616
+TOPO [M+Na]+,TOPO,,C24H51OP,C24H51NaOP,sodiated,409.6255758090612
+TOPO [M+K]+,TOPO,,C24H51OP,C24H51KOP,potassiated,425.73410765262395
+TOPO [2M+H]+,TOPO,,C48H102O2P2,C48H103O2P2,dimer_protonated,774.2795538102181
+Trioctylphosphine selenide [M+H]+,Trioctylphosphine selenide,74Se,C24H51PSe,C24H52PSe,protonated,445.5668187549265
+Trioctylphosphine selenide [M+NH4]+,Trioctylphosphine selenide,74Se,C24H51PSe,C24H55NPSe,ammoniated,462.5973442284257
+Trioctylphosphine selenide [M+Na]+,Trioctylphosphine selenide,74Se,C24H51PSe,C24H51NaPSe,sodiated,467.54864728193076
+Trioctylphosphine selenide [M+K]+,Trioctylphosphine selenide,74Se,C24H51PSe,C24H51KPSe,potassiated,483.6571791254935
+Trioctylphosphine selenide [2M+H]+,Trioctylphosphine selenide,74Se,C48H102PSe2,C48H103PSe2,dimer_protonated,859.1519351259572
+Trioctylphosphine selenide [M+H]+,Trioctylphosphine selenide,76Se,C24H51PSe,C24H52PSe,protonated,447.5635559549265
+Trioctylphosphine selenide [M+NH4]+,Trioctylphosphine selenide,76Se,C24H51PSe,C24H55NPSe,ammoniated,464.59408142842574
+Trioctylphosphine selenide [M+Na]+,Trioctylphosphine selenide,76Se,C24H51PSe,C24H51NaPSe,sodiated,469.5453844819308
+Trioctylphosphine selenide [M+K]+,Trioctylphosphine selenide,76Se,C24H51PSe,C24H51KPSe,potassiated,485.65391632549347
+Trioctylphosphine selenide [2M+H]+,Trioctylphosphine selenide,76Se,C48H102PSe2,C48H103PSe2,dimer_protonated,863.1454095259571
+Trioctylphosphine selenide [M+H]+,Trioctylphosphine selenide,77Se,C24H51PSe,C24H52PSe,protonated,448.5642563549265
+Trioctylphosphine selenide [M+NH4]+,Trioctylphosphine selenide,77Se,C24H51PSe,C24H55NPSe,ammoniated,465.5947818284257
+Trioctylphosphine selenide [M+Na]+,Trioctylphosphine selenide,77Se,C24H51PSe,C24H51NaPSe,sodiated,470.54608488193077
+Trioctylphosphine selenide [M+K]+,Trioctylphosphine selenide,77Se,C24H51PSe,C24H51KPSe,potassiated,486.6546167254935
+Trioctylphosphine selenide [2M+H]+,Trioctylphosphine selenide,77Se,C48H102PSe2,C48H103PSe2,dimer_protonated,865.1468103259572
+Trioctylphosphine selenide [M+H]+,Trioctylphosphine selenide,78Se,C24H51PSe,C24H52PSe,protonated,449.5616514549265
+Trioctylphosphine selenide [M+NH4]+,Trioctylphosphine selenide,78Se,C24H51PSe,C24H55NPSe,ammoniated,466.5921769284257
+Trioctylphosphine selenide [M+Na]+,Trioctylphosphine selenide,78Se,C24H51PSe,C24H51NaPSe,sodiated,471.5434799819308
+Trioctylphosphine selenide [M+K]+,Trioctylphosphine selenide,78Se,C24H51PSe,C24H51KPSe,potassiated,487.6520118254935
+Trioctylphosphine selenide [2M+H]+,Trioctylphosphine selenide,78Se,C48H102PSe2,C48H103PSe2,dimer_protonated,867.1416005259572
+TOPSe [M+H]+,TOPSe,,C24H51PSe,C24H52PSe,protonated,450.6037305950265
+TOPSe [M+NH4]+,TOPSe,,C24H51PSe,C24H55NPSe,ammoniated,467.6342560685257
+TOPSe [M+Na]+,TOPSe,,C24H51PSe,C24H51NaPSe,sodiated,472.58555912203076
+TOPSe [M+K]+,TOPSe,,C24H51PSe,C24H51KPSe,potassiated,488.6940909655935
+TOPSe [2M+H]+,TOPSe,,C48H102P2Se2,C48H103P2Se2,dimer_protonated,900.1995204361572
+Trioctylphosphine selenide [M+H]+,Trioctylphosphine selenide,80Se,C24H51PSe,C24H52PSe,protonated,451.5608636549265
+Trioctylphosphine selenide [M+NH4]+,Trioctylphosphine selenide,80Se,C24H51PSe,C24H55NPSe,ammoniated,468.5913891284257
+Trioctylphosphine selenide [M+Na]+,Trioctylphosphine selenide,80Se,C24H51PSe,C24H51NaPSe,sodiated,473.54269218193076
+Trioctylphosphine selenide [M+K]+,Trioctylphosphine selenide,80Se,C24H51PSe,C24H51KPSe,potassiated,489.6512240254935
+Trioctylphosphine selenide [2M+H]+,Trioctylphosphine selenide,80Se,C48H102PSe2,C48H103PSe2,dimer_protonated,871.1400249259572
+Trioctylphosphine selenide [M+H]+,Trioctylphosphine selenide,82Se,C24H51PSe,C24H52PSe,protonated,453.56104175492646
+Trioctylphosphine selenide [M+NH4]+,Trioctylphosphine selenide,82Se,C24H51PSe,C24H55NPSe,ammoniated,470.5915672284257
+Trioctylphosphine selenide [M+Na]+,Trioctylphosphine selenide,82Se,C24H51PSe,C24H51NaPSe,sodiated,475.54287028193073
+Trioctylphosphine selenide [M+K]+,Trioctylphosphine selenide,82Se,C24H51PSe,C24H51KPSe,potassiated,491.6514021254935
+Trioctylphosphine selenide [2M+H]+,Trioctylphosphine selenide,82Se,C48H102PSe2,C48H103PSe2,dimer_protonated,875.1403811259572
+Lead [M+H]+,Lead,204Pb,PbI2,HI2Pb,protonated,458.7899303538958
+Lead [M+NH4]+,Lead,204Pb,PbI2,H4I2NPb,ammoniated,475.820455827395
+Lead [M+Na]+,Lead,204Pb,PbI2,I2NaPb,sodiated,480.77175888090005
+Lead [M+K]+,Lead,204Pb,PbI2,I2KPb,potassiated,496.8802907244627
+Lead [2M+H]+,Lead,204Pb,I4Pb2,HI4Pb2,dimer_protonated,916.5719199538958
+Lead palmitate [M+H]+,Lead palmitate,,PbC32H62O4,C32H63O4Pb,protonated,719.0583435634173
+Lead palmitate [M+NH4]+,Lead palmitate,,PbC32H62O4,C32H66NO4Pb,ammoniated,736.0888690369165
+Lead palmitate [M+Na]+,Lead palmitate,,PbC32H62O4,C32H62NaO4Pb,sodiated,741.0401720904216
+Lead palmitate [M+K]+,Lead palmitate,,PbC32H62O4,C32H62KO4Pb,potassiated,757.1487039339844
+Lead palmitate [2M+H]+,Lead palmitate,,C64H124O8Pb2,C64H125O8Pb2,dimer_protonated,1437.1087463729389
+Lead linoleate [M+H]+,Lead linoleate,204Pb,PbC36H62O4,C36H63O4Pb,protonated,763.8574230874751
+Lead linoleate [M+NH4]+,Lead linoleate,204Pb,PbC36H62O4,C36H66NO4Pb,ammoniated,780.8879485609743
+Lead linoleate [M+Na]+,Lead linoleate,204Pb,PbC36H62O4,C36H62NaO4Pb,sodiated,785.8392516144794
+Lead linoleate [M+K]+,Lead linoleate,204Pb,PbC36H62O4,C36H62KO4Pb,potassiated,801.9477834580422
+Lead linoleate [2M+H]+,Lead linoleate,204Pb,C72H124O8Pb2,C72H125O8Pb2,dimer_protonated,1526.7069054210544
+Lead oleate [M+H]+,Lead oleate,204Pb,PbC36H66O4,C36H67O4Pb,protonated,767.8891861030581
+Lead oleate [M+NH4]+,Lead oleate,204Pb,PbC36H66O4,C36H70NO4Pb,ammoniated,784.9197115765575
+Lead oleate [M+Na]+,Lead oleate,204Pb,PbC36H66O4,C36H66NaO4Pb,sodiated,789.8710146300624
+Lead oleate [M+K]+,Lead oleate,204Pb,PbC36H66O4,C36H66KO4Pb,potassiated,805.9795464736252
+Lead oleate [2M+H]+,Lead oleate,204Pb,C72H132O8Pb2,C72H133O8Pb2,dimer_protonated,1534.7704314522207
+3-Mercaptopropylsilanetriol [M+H]+,3-Mercaptopropylsilanetriol,,C3H10O3SSi,C3H11O3SSi,protonated,155.26805670588303
+3-Mercaptopropylsilanetriol [M+NH4]+,3-Mercaptopropylsilanetriol,,C3H10O3SSi,C3H14NO3SSi,ammoniated,172.29858217938227
+3-Mercaptopropylsilanetriol [M+Na]+,3-Mercaptopropylsilanetriol,,C3H10O3SSi,C3H10NaO3SSi,sodiated,177.24988523288727
+3-Mercaptopropylsilanetriol [M+K]+,3-Mercaptopropylsilanetriol,,C3H10O3SSi,C3H10KO3SSi,potassiated,193.35841707645002
+3-Mercaptopropylsilanetriol [2M+H]+,3-Mercaptopropylsilanetriol,,C6H20O6S2Si2,C6H21O6S2Si2,dimer_protonated,309.5281726578703
+Hexamethylcyclotrisiloxane (D3) [M+H]+,Hexamethylcyclotrisiloxane (D3),,C6H18O3Si3,C6H19O3Si3,protonated,223.4700006052542
+Hexamethylcyclotrisiloxane (D3) [M+NH4]+,Hexamethylcyclotrisiloxane (D3),,C6H18O3Si3,C6H22NO3Si3,ammoniated,240.50052607875347
+Hexamethylcyclotrisiloxane (D3) [M+Na]+,Hexamethylcyclotrisiloxane (D3),,C6H18O3Si3,C6H18NaO3Si3,sodiated,245.45182913225844
+Hexamethylcyclotrisiloxane (D3) [M+K]+,Hexamethylcyclotrisiloxane (D3),,C6H18O3Si3,C6H18KO3Si3,potassiated,261.5603609758212
+Hexamethylcyclotrisiloxane (D3) [2M+H]+,Hexamethylcyclotrisiloxane (D3),,C12H36O6Si6,C12H37O6Si6,dimer_protonated,445.93206045661265
+Octamethylcyclotetrasiloxane (D4) [M+H]+,Octamethylcyclotetrasiloxane (D4),,C8H24O4Si4,C8H25O4Si4,protonated,297.62402055570703
+Octamethylcyclotetrasiloxane (D4) [M+NH4]+,Octamethylcyclotetrasiloxane (D4),,C8H24O4Si4,C8H28NO4Si4,ammoniated,314.6545460292063
+Octamethylcyclotetrasiloxane (D4) [M+Na]+,Octamethylcyclotetrasiloxane (D4),,C8H24O4Si4,C8H24NaO4Si4,sodiated,319.60584908271125
+Octamethylcyclotetrasiloxane (D4) [M+K]+,Octamethylcyclotetrasiloxane (D4),,C8H24O4Si4,C8H24KO4Si4,potassiated,335.71438092627403
+Octamethylcyclotetrasiloxane (D4) [2M+H]+,Octamethylcyclotetrasiloxane (D4),,C16H48O8Si8,C16H49O8Si8,dimer_protonated,594.2401003575183
+Decamethylcyclopentasiloxane (D5) [M+H]+,Decamethylcyclopentasiloxane (D5),,C10H30O5Si5,C10H31O5Si5,protonated,371.77804050615987
+Decamethylcyclopentasiloxane (D5) [M+NH4]+,Decamethylcyclopentasiloxane (D5),,C10H30O5Si5,C10H34NO5Si5,ammoniated,388.8085659796591
+Decamethylcyclopentasiloxane (D5) [M+Na]+,Decamethylcyclopentasiloxane (D5),,C10H30O5Si5,C10H30NaO5Si5,sodiated,393.759869033164
+Decamethylcyclopentasiloxane (D5) [M+K]+,Decamethylcyclopentasiloxane (D5),,C10H30O5Si5,C10H30KO5Si5,potassiated,409.8684008767268
+Decamethylcyclopentasiloxane (D5) [2M+H]+,Decamethylcyclopentasiloxane (D5),,C20H60O10Si10,C20H61O10Si10,dimer_protonated,742.5481402584239
+Diethylene glycol [M+H]+,Diethylene glycol,,C4H10O3,C4H11O3,protonated,107.1285066613026
+Diethylene glycol [M+NH4]+,Diethylene glycol,,C4H10O3,C4H14NO3,ammoniated,124.15903213480183
+Diethylene glycol [M+Na]+,Diethylene glycol,,C4H10O3,C4H10NaO3,sodiated,129.11033518830683
+Diethylene glycol [M+K]+,Diethylene glycol,,C4H10O3,C4H10KO3,potassiated,145.2188670318696
+Diethylene glycol [2M+H]+,Diethylene glycol,,C8H20O6,C8H21O6,dimer_protonated,213.2490725687094
+Diethylene glycol [M-H2O+H]+,Diethylene glycol,,C4H8O2,C4H9O2,dehydrated_protonated,89.1132202263806
+Triethylene glycol [M+H]+,Triethylene glycol,,C6H14O4,C6H15O4,protonated,151.181146397545
+Triethylene glycol [M+NH4]+,Triethylene glycol,,C6H14O4,C6H18NO4,ammoniated,168.21167187104427
+Triethylene glycol [M+Na]+,Triethylene glycol,,C6H14O4,C6H14NaO4,sodiated,173.16297492454925
+Triethylene glycol [M+K]+,Triethylene glycol,,C6H14O4,C6H14KO4,potassiated,189.271506768112
+Triethylene glycol [2M+H]+,Triethylene glycol,,C12H28O8,C12H29O8,dimer_protonated,301.35435204119426
+Triethylene glycol [M-H2O+H]+,Triethylene glycol,,C6H12O3,C6H13O3,dehydrated_protonated,133.16585996262302
+TBA fragment C12H28N [M+H]+,TBA fragment C12H28N,,C12H28N,C12H29N,protonated,187.36581583596248
+TBA fragment C12H28N [M+NH4]+,TBA fragment C12H28N,,C12H28N,C12H32N2,ammoniated,204.39634130946175
+TBA fragment C12H28N [M+Na]+,TBA fragment C12H28N,,C12H28N,C12H28NNa,sodiated,209.34764436296672
+TBA fragment C12H28N [M+K]+,TBA fragment C12H28N,,C12H28N,C12H28KN,potassiated,225.45617620652948
+TBA fragment C12H28N [2M+H]+,TBA fragment C12H28N,,C24H56N2,C24H57N2,dimer_protonated,373.7236909180292
+TBA fragment C6H14N [M+H]+,TBA fragment C6H14N,,C6H14N,C6H15N,protonated,101.1902299008351
+TBA fragment C6H14N [M+NH4]+,TBA fragment C6H14N,,C6H14N,C6H18N2,ammoniated,118.22075537433436
+TBA fragment C6H14N [M+Na]+,TBA fragment C6H14N,,C6H14N,C6H14NNa,sodiated,123.17205842783935
+TBA fragment C6H14N [M+K]+,TBA fragment C6H14N,,C6H14N,C6H14KN,potassiated,139.2805902714021
+TBA fragment C6H14N [2M+H]+,TBA fragment C6H14N,,C12H28N2,C12H29N2,dimer_protonated,201.37251904777446

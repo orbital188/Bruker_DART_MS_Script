@@ -1,0 +1,55 @@
+compound,base_compound,isotope_info,molecular_formula,theoretical_mz_calculated,mass_type,source
+"1,2-Ethylenediamine [M+H]+","1,2-Ethylenediamine",,C2H8N2,61.07657329823,protonated,main_calculations
+3-MPTMS [M+H]+,3-MPTMS,,C7H16O3SSi,209.06676693637,protonated,missing_compounds
+Acetonitrile [M+H]+,Acetonitrile,,C2H3N,42.03437413308,protonated,main_calculations
+DMSO [M+H]+,DMSO,,C2H6OS,79.02176084405,protonated,main_calculations
+Diphenylphosphine,Diphenylphosphine,,C12H11P,186.05983698277,neutral,missing_compounds
+Diphenylphosphine [M+H]+,Diphenylphosphine,,C12H11P,187.06766201484,protonated,missing_compounds
+Diphenylphosphine oxide,Diphenylphosphine oxide,,C12H11OP,202.05475160233,neutral,missing_compounds
+Diphenylphosphine oxide [M+H]+,Diphenylphosphine oxide,,C12H11OP,203.0625766344,protonated,missing_compounds
+Diphenylphosphine selenide (74Se),Diphenylphosphine selenide,74Se,C12H11P74Se,260.99013841484,protonated,isotopic_fragments
+Diphenylphosphine selenide (76Se),Diphenylphosphine selenide,76Se,C12H11P76Se,262.98687561484,protonated,isotopic_fragments
+Diphenylphosphine selenide (77Se),Diphenylphosphine selenide,77Se,C12H11P77Se,263.98757601484,protonated,isotopic_fragments
+Diphenylphosphine selenide (78Se),Diphenylphosphine selenide,78Se,C12H11P78Se,264.98497111484,protonated,isotopic_fragments
+Diphenylphosphine selenide (80Se),Diphenylphosphine selenide,80Se,C12H11P80Se,266.98418331484,protonated,isotopic_fragments
+Diphenylphosphine selenide (82Se),Diphenylphosphine selenide,82Se,C12H11P82Se,268.98436141483995,protonated,isotopic_fragments
+Diphenylphosphinic acid,Diphenylphosphinic acid,,C12H11O2P,218.04966622189,neutral,missing_compounds
+Diphenylphosphinic acid [M+H]+,Diphenylphosphinic acid,,C12H11O2P,219.05749125396,protonated,missing_compounds
+Ethylene glycol [M+H]+,Ethylene glycol,,C2H6O2,63.04460446361,protonated,main_calculations
+Hexanes [M+H]+,Hexanes,,C6H14,87.11737548105,protonated,main_calculations
+Lead (II) iodide,Lead,204Pb,PbI2,462.79342313207,protonated,isotopic_variants
+Lead linoleate,Lead linoleate,204Pb,PbC36H62O4,767.44928759865,protonated,isotopic_variants
+Lead linoleate [M+H]+,Lead linoleate,,PbC36H62O4,767.44928759865,protonated,main_calculations
+Lead oleate,Lead oleate,204Pb,PbC36H66O4,771.48058772693,protonated,isotopic_variants
+Lead oleate [M+H]+,Lead oleate,,PbC36H66O4,771.48058772693,protonated,main_calculations
+Lead palmitate,Lead palmitate,204Pb,PbC32H62O4,719.44928759865,protonated,isotopic_variants
+Lead palmitate [M+H]+,Lead palmitate,,PbC32H62O4,719.44928759865,protonated,main_calculations
+Lead stearate [M+H]+,Lead stearate,,C6H15NO3,150.1130183766,protonated,main_calculations
+Linoleic acid - H2O [M+H]+,Linoleic acid - H2O,,C18H34O2,283.26370536157,protonated,main_calculations
+Linoleic acid [M+H]+,Linoleic acid,,C18H34O2,283.26370536157,protonated,main_calculations
+Linoleic acid [M-H]-,Linoleic acid,,C18H34O2,282.2558803295,deprotonated,main_calculations
+Oleic acid - H2O [M+H]+,Oleic acid - H2O,,C18H34O2,283.26370536157,protonated,main_calculations
+Oleic acid [M-H]-,Oleic acid,,C18H34O2,282.2558803295,deprotonated,main_calculations
+PBG [M+H]+,PBG,,C14H17NO2,232.13375382118,protonated,main_calculations
+Palmitic acid - H2O [M+H]+,Palmitic acid - H2O,,C16H32O2,257.24805529743,protonated,main_calculations
+Palmitic acid [M+H]+,Palmitic acid,,C16H32O2,257.24805529743,protonated,main_calculations
+Palmitic acid [M-H]-,Palmitic acid,,C16H32O2,256.24023026536,deprotonated,main_calculations
+Palmitoleic acid [M+H]+,Palmitoleic acid,,C18H34O2,283.26370536157,protonated,main_calculations
+Palmitoleic acid [M-H]-,Palmitoleic acid,,C18H34O2,282.2558803295,deprotonated,main_calculations
+Quinoline [M+H]+,Quinoline,,C9H7N,130.06567426136002,protonated,main_calculations
+Stearic acid - H2O [M+H]+,Stearic acid - H2O,,C18H36O2,285.27935542571,protonated,main_calculations
+Stearic acid [M+H]+,Stearic acid,,C18H36O2,285.27935542571,protonated,main_calculations
+Stearic acid [M-H]-,Stearic acid,,C18H36O2,284.27153039364,deprotonated,main_calculations
+TBA+ [M+Na]+,TBA+,,C16H36N,242.28477515932,sodium_adduct,main_calculations
+TBA+ [M]+,TBA+,,C16H36N,242.28477515932,cation,main_calculations
+TOP [M+H]+,TOP,,C24H51P,371.38066329764,protonated,missing_compounds
+TOPO [M+H]+,TOPO,,C24H51OP,387.3755779172,protonated,missing_compounds
+TOPSe [M+H]+,TOPSe,,C24H51PSe,451.29718459764,protonated,missing_compounds
+Triethylamine [M+H]+,Triethylamine,,C6H15N,102.12827451792,protonated,missing_compounds
+Trioctylphosphine selenide (74Se),Trioctylphosphine selenide,74Se,C24H51P74Se,445.30313969764,protonated,isotopic_fragments
+Trioctylphosphine selenide (76Se),Trioctylphosphine selenide,76Se,C24H51P76Se,447.29987689764,protonated,isotopic_fragments
+Trioctylphosphine selenide (77Se),Trioctylphosphine selenide,77Se,C24H51P77Se,448.30057729764,protonated,isotopic_fragments
+Trioctylphosphine selenide (78Se),Trioctylphosphine selenide,78Se,C24H51P78Se,449.29797239764,protonated,isotopic_fragments
+Trioctylphosphine selenide (80Se),Trioctylphosphine selenide,80Se,C24H51P80Se,451.29718459764,protonated,isotopic_fragments
+Trioctylphosphine selenide (82Se),Trioctylphosphine selenide,82Se,C24H51P82Se,453.29736269764,protonated,isotopic_fragments
+WPBG-027 [M+H]+,WPBG-027,,C14H17NO2,232.13375382118,protonated,main_calculations

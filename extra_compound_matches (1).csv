@@ -1,0 +1,43 @@
+
+file_name,compound,mass_type,theoretical_mz,mz_observed,intensity,difference
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1848,1646,-0.0051
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1831,1598,-0.0068
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1847,1632,-0.0052
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1846,1788,-0.0053
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1834,1562,-0.0065
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1853,1722,-0.0046
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1831,1154,-0.0068
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.183,1771,-0.0069
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1823,1330,-0.0076
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphine,neutral,186.1899,186.1853,2135,-0.0046
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphine,protonated,187.1979,187.1889,235,-0.009
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphine oxide,neutral,202.1893,202.1815,398,-0.0078
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Diphenylphosphine oxide,neutral,202.1893,202.1809,1833,-0.0084
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphine oxide,neutral,202.1893,202.1805,1514,-0.0088
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphine oxide,neutral,202.1893,202.18,2632,-0.0093
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphine oxide,neutral,202.1893,202.1798,1859,-0.0095
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1984,5502,0.0096
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1932,2939,0.0044
+250731_PbSe1_Pos_6_mass_list_analysis_2223_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.197,3708,0.0082
+250731_PbSe1_Pos_5_mass_list_analysis_2222_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1955,3668,0.0067
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1881,5832,-0.0007
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.188,5475,-0.0007
+250731_PbSe7_Pos_3_mass_list_analysis_2226_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1911,3397,0.0023
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1882,5878,-0.0006
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1811,1762,-0.0077
+250731_PbSe10_Pos_3_mass_list_analysis_2216_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1814,1762,-0.0074
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.198,5651,0.0092
+250731_PbSe7_Pos_2_mass_list_analysis_2225_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1936,3055,0.0048
+250731_PbSe1_Pos_4_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphinic acid,neutral,218.1888,218.1816,4264,-0.0072
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,Diphenylphosphinic acid,protonated,219.1967,219.2046,1863,0.0079
+250731_PbSe7_Pos_1_mass_list_analysis_2224_repeated_peaks_summary.csv,Diphenylphosphinic acid,protonated,219.1967,219.2041,2319,0.0074
+250731_PbSe1_Pos_3_mass_list_analysis_2221_repeated_peaks_summary.csv,Diphenylphosphinic acid,protonated,219.1967,219.2023,65096,0.0056
+250731_PbSe1_Pos_2_mass_list_analysis_2220_repeated_peaks_summary.csv,Diphenylphosphinic acid,protonated,219.1967,219.2025,63703,0.0058
+250731_PbSe1_Pos_1_mass_list_analysis_2219_repeated_peaks_summary.csv,Diphenylphosphinic acid,protonated,219.1967,219.2013,67570,0.0046
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,Diphenylphosphinic acid,protonated,219.1967,219.2052,1172,0.0085
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,PbI2,neutral,461.0259,461.0329,540,0.007
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,PbI2,neutral,461.0259,461.0339,250,0.008
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,PbI2,neutral,461.0259,461.0273,297,0.0014
+250731_PbSe10_Pos_2_mass_list_analysis_2228_repeated_peaks_summary.csv,PbI2,protonated,462.0338,462.0348,316,0.001
+250731_PbSe10_Pos_3_mass_list_analysis_2218_repeated_peaks_summary.csv,PbI2,protonated,462.0338,462.0292,214,-0.0046
+250731_PbSe10_Pos_1_mass_list_analysis_2227_repeated_peaks_summary.csv,PbI2,protonated,462.0338,462.0297,292,-0.0041

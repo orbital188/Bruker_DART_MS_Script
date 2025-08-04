@@ -1,0 +1,81 @@
+compound,base_compound,isotope_info,molecular_formula,mass_type
+Water [M+H]+,Water,,H2O,protonated
+Phosphine [M+H]+,Phosphine,,PH3,protonated
+Potassium ion [M]+,Potassium ion,,K,cation
+Acetonitrile [M+H]+,Acetonitrile,,C2H3N,protonated
+Nitrogen dioxide [M+H]+,Nitrogen dioxide,,NO2,protonated
+Phosphine oxide [M+H]+,Phosphine oxide,,PH3O,protonated
+Potassium hydroxide [M+H]+,Potassium hydroxide,,KOH,protonated
+Acetone [M+H]+,Acetone,,C3H6O,protonated
+Silica [M+H]+,Silica,,SiO2,protonated
+Isopropanol [M+H]+,Isopropanol,,C3H8O,protonated
+"1,2-Ethylenediamine [M+H]+","1,2-Ethylenediamine",,C2H8N2,protonated
+Ethylene glycol [M+H]+,Ethylene glycol,,C2H6O2,protonated
+Nitric acid [M+H]+,Nitric acid,,HNO3,protonated
+DMSO [M+H]+,DMSO,,C2H6OS,protonated
+DMSO-d6 [M+H]+,DMSO-d6,,C2D6OS,protonated
+Piperidine [M+H]+,Piperidine,,C5H11N,protonated
+Hexanes [M+H]+,Hexanes,,C6H14,protonated
+Toluene [M+H]+,Toluene,,C7H8,protonated
+Aniline [M+H]+,Aniline,,C6H7N,protonated
+Silicic acid [M+H]+,Silicic acid,,H4SiO4,protonated
+Phosphoric acid [M+H]+,Phosphoric acid,,H3PO4,protonated
+Triethylamine [M+H]+,Triethylamine,,C6H15N,protonated
+Selenium dioxide [M+H]+,Selenium dioxide,80Se,SeO2,protonated
+PBG fragment 1 [M+H]+,PBG fragment 1,,C7H7NO,protonated
+PBG fragment 2 [M+H]+,PBG fragment 2,,C7H8O2,protonated
+Quinoline [M+H]+,Quinoline,,C9H7N,protonated
+Selenic acid [M+H]+,Selenic acid,80Se,H2SeO4,protonated
+Coumarin [M+H]+,Coumarin,,C9H6O2,protonated
+Lead stearate [M+H]+,Lead stearate,,C6H15NO3,protonated
+Triethanolamine [M+H]+,Triethanolamine,,C6H15NO3,protonated
+Quinoline [M+Na]+,Quinoline,,C9H7N,sodium_adduct
+WPBG-027 fragment [M+H]+,WPBG-027 fragment,,C9H9NO2,protonated
+Diphenylphosphine [M+H]+,Diphenylphosphine,,C12H11P,protonated
+Diphenylphosphine oxide [M+H]+,Diphenylphosphine oxide,,C12H11OP,protonated
+3-MPTMS [M+H]+,3-MPTMS,,C7H16O3SSi,protonated
+Diphenylphosphinic acid [M+H]+,Diphenylphosphinic acid,,C12H11O2P,protonated
+Lead oxide [M+H]+,Lead oxide,204Pb,PbO,protonated
+Lead hydroxide [M+H]+,Lead hydroxide,204Pb,PbOH2,protonated
+PBG [M+H]+,PBG,,C14H17NO2,protonated
+WPBG-027 [M+H]+,WPBG-027,,C14H17NO2,protonated
+TBA+ [M+Na]+,TBA+,,C16H36N,sodium_adduct
+TBA+ [M]+,TBA+,,C16H36N,cation
+1-Octadecene [M+H]+,1-Octadecene,,C18H36,protonated
+PBG [M+Na]+,PBG,,C14H17NO2,sodium_adduct
+Palmitic acid - H2O [M+H]+,Palmitic acid - H2O,,C16H32O2,protonated
+Palmitic acid [M+H]+,Palmitic acid,,C16H32O2,protonated
+TBA+ [M+NH4]+,TBA+,,C16H36N,ammonium_adduct
+Diphenylphosphine selenide (74Se),Diphenylphosphine selenide,74Se,C12H11P74Se,protonated
+Diphenylphosphine selenide (76Se),Diphenylphosphine selenide,76Se,C12H11P76Se,protonated
+Diphenylphosphine selenide (77Se),Diphenylphosphine selenide,77Se,C12H11P77Se,protonated
+Diphenylphosphine selenide (78Se),Diphenylphosphine selenide,78Se,C12H11P78Se,protonated
+Diphenylphosphine selenide (80Se),Diphenylphosphine selenide,80Se,C12H11P80Se,protonated
+Diphenylphosphine selenide (82Se),Diphenylphosphine selenide,82Se,C12H11P82Se,protonated
+Palmitic acid [M+Na]+,Palmitic acid,,C16H32O2,sodium_adduct
+Linoleic acid [M+H]+,Linoleic acid,,C18H34O2,protonated
+Oleic acid - H2O [M+H]+,Oleic acid - H2O,,C18H34O2,protonated
+Linoleic acid - H2O [M+H]+,Linoleic acid - H2O,,C18H34O2,protonated
+Palmitoleic acid [M+H]+,Palmitoleic acid,,C18H34O2,protonated
+Stearic acid [M+H]+,Stearic acid,,C18H36O2,protonated
+Stearic acid - H2O [M+H]+,Stearic acid - H2O,,C18H36O2,protonated
+Linoleic acid [M+Na]+,Linoleic acid,,C18H34O2,sodium_adduct
+Oleic acid [M+Na]+,Oleic acid,,C18H34O2,sodium_adduct
+Stearic acid [M+Na]+,Stearic acid,,C18H36O2,sodium_adduct
+Lead acetate [M+H]+,Lead acetate,204Pb,PbC4H6O4,protonated
+TOP [M+H]+,TOP,,C24H51P,protonated
+TOPO [M+H]+,TOPO,,C24H51OP,protonated
+Trioctylphosphine selenide (74Se),Trioctylphosphine selenide,74Se,C24H51P74Se,protonated
+Trioctylphosphine selenide (76Se),Trioctylphosphine selenide,76Se,C24H51P76Se,protonated
+Trioctylphosphine selenide (77Se),Trioctylphosphine selenide,77Se,C24H51P77Se,protonated
+Trioctylphosphine selenide (78Se),Trioctylphosphine selenide,78Se,C24H51P78Se,protonated
+TOPSe [M+H]+,TOPSe,,C24H51PSe,protonated
+Trioctylphosphine selenide (80Se),Trioctylphosphine selenide,80Se,C24H51P80Se,protonated
+Trioctylphosphine selenide (82Se),Trioctylphosphine selenide,82Se,C24H51P82Se,protonated
+Lead (II) iodide,Lead,204Pb,PbI2,protonated
+Lead palmitate [M+H]+,Lead palmitate,,PbC32H62O4,protonated
+Lead palmitate,Lead palmitate,204Pb,PbC32H62O4,protonated
+Lead linoleate,Lead linoleate,204Pb,PbC36H62O4,protonated
+Lead linoleate [M+H]+,Lead linoleate,,PbC36H62O4,protonated
+Lead oleate,Lead oleate,204Pb,PbC36H66O4,protonated
+Lead oleate [M+H]+,Lead oleate,,PbC36H66O4,protonated
