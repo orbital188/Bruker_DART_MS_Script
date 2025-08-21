@@ -13,7 +13,7 @@ Features:
 - Uses merged_chemcalc_data.json for reference data
 - Automatically detects ALL compounds available in the JSON file
 
-Author: [Your Name]
+
 Date: [Current Date]
 """
 

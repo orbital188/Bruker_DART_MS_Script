@@ -10,7 +10,7 @@ Features:
 - Beginner-friendly with clear documentation
 - Easy to maintain and update
 
-Author: [Your Name]
+
 Date: [Current Date]
 """
 
