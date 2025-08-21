@@ -1,0 +1,2732 @@
+{
+  "summary": {
+    "total_formulas": 54,
+    "successful_downloads": 54,
+    "failed_downloads": 0,
+    "generation_timestamp": "2025-08-20 14:59:31",
+    "source_csv": "dart_td_ms_positive_comprehensive.csv"
+  },
+  "formulas": [
+    {
+      "xy": "369.381, 0\r\n371.381, 100\r\n372.384, 25.95775\r\n372.387, 0.59807\r\n373.387, 3.22865\r\n373.39, 0.15525\r\n373.393, 0.00175\r\n374.391, 0.25608\r\n374.394, 0.01931\r\n375.394, 0.01454\r\n375.397, 0.00153\r\n377.397, 0\r\n",
+      "nominalMass": 371,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C24H52P",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 10,
+        "resolution": 0.001
+      },
+      "em": 371.3806632997,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 371.3806632997,
+          "mf": "C24H52P",
+          "mw": 371.644342,
+          "ea": [
+            {
+              "number": 24,
+              "percentage": 77.562774,
+              "element": "C"
+            },
+            {
+              "number": 52,
+              "percentage": 14.102978,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 8.334248,
+              "element": "P"
+            }
+          ],
+          "msem": 371.3806632997
+        }
+      ],
+      "mf": "C24H52P",
+      "mw": 371.644342,
+      "jcamp": "##TITLE= C24H52P - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 12\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=371.644342\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=371.3806632997\r\n##PEAK TABLE= (XY..XY)\r\n369.381, 0\r\n371.381, 100\r\n372.384, 25.95775\r\n372.387, 0.59807\r\n373.387, 3.22865\r\n373.39, 0.15525\r\n373.393, 0.00175\r\n374.391, 0.25608\r\n374.394, 0.01931\r\n375.394, 0.01454\r\n375.397, 0.00153\r\n377.397, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Trioctylphosphine (TOP) [M+H]+",
+        "molecular_formula": "C24H52P",
+        "download_timestamp": "2025-08-20 14:58:10",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "443.303, 0\r\n445.303, 1.79399\r\n446.306, 0.46568\r\n446.309, 0.01073\r\n447.3, 18.88732\r\n447.31, 0.05792\r\n447.313, 0.00279\r\n448.301, 15.37996\r\n448.303, 4.90272\r\n448.306, 0.11296\r\n448.313, 0.00459\r\n449.298, 47.91373\r\n449.304, 3.99229\r\n449.307, 0.70179\r\n449.31, 0.02932\r\n450.301, 12.43732\r\n450.304, 0.28656\r\n450.307, 0.49656\r\n450.31, 0.07224\r\n450.313, 0.00365\r\n451.297, 100\r\n451.305, 1.54697\r\n451.308, 0.07438\r\n451.311, 0.03939\r\n451.313, 0.00275\r\n451.314, 0.00297\r\n452.301, 25.95775\r\n452.303, 0.59807\r\n452.308, 0.1227\r\n452.311, 0.00925\r\n452.314, 0.00224\r\n453.297, 17.59726\r\n453.304, 3.22865\r\n453.307, 0.15525\r\n453.31, 0.00175\r\n453.311, 0.00697\r\n454.301, 4.56785\r\n454.304, 0.10524\r\n454.307, 0.25608\r\n454.31, 0.01931\r\n455.304, 0.56815\r\n455.307, 0.02732\r\n455.311, 0.01454\r\n455.314, 0.00153\r\n456.307, 0.04506\r\n456.31, 0.0034\r\n457.311, 0.00256\r\n459.311, 0\r\n",
+      "nominalMass": 451,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C24H52PSe",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 46,
+        "resolution": 0.001
+      },
+      "em": 451.2971846207,
+      "parts": [
+        {
+          "em": 451.2971846207,
+          "mf": "C24H52PSe",
+          "mw": 450.603731,
+          "ea": [
+            {
+              "number": 24,
+              "percentage": 63.971432,
+              "element": "C"
+            },
+            {
+              "number": 52,
+              "percentage": 11.63171,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 6.873836,
+              "element": "P"
+            },
+            {
+              "number": 1,
+              "percentage": 17.523021,
+              "element": "Se"
+            }
+          ],
+          "msem": 451.2971846207
+        }
+      ],
+      "mf": "C24H52PSe",
+      "mw": 450.603731,
+      "jcamp": "##TITLE= C24H52PSe - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 48\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Molecular weight=450.603731\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=451.2971846207\r\n##PEAK TABLE= (XY..XY)\r\n443.303, 0\r\n445.303, 1.79399\r\n446.306, 0.46568\r\n446.309, 0.01073\r\n447.3, 18.88732\r\n447.31, 0.05792\r\n447.313, 0.00279\r\n448.301, 15.37996\r\n448.303, 4.90272\r\n448.306, 0.11296\r\n448.313, 0.00459\r\n449.298, 47.91373\r\n449.304, 3.99229\r\n449.307, 0.70179\r\n449.31, 0.02932\r\n450.301, 12.43732\r\n450.304, 0.28656\r\n450.307, 0.49656\r\n450.31, 0.07224\r\n450.313, 0.00365\r\n451.297, 100\r\n451.305, 1.54697\r\n451.308, 0.07438\r\n451.311, 0.03939\r\n451.313, 0.00275\r\n451.314, 0.00297\r\n452.301, 25.95775\r\n452.303, 0.59807\r\n452.308, 0.1227\r\n452.311, 0.00925\r\n452.314, 0.00224\r\n453.297, 17.59726\r\n453.304, 3.22865\r\n453.307, 0.15525\r\n453.31, 0.00175\r\n453.311, 0.00697\r\n454.301, 4.56785\r\n454.304, 0.10524\r\n454.307, 0.25608\r\n454.31, 0.01931\r\n455.304, 0.56815\r\n455.307, 0.02732\r\n455.311, 0.01454\r\n455.314, 0.00153\r\n456.307, 0.04506\r\n456.31, 0.0034\r\n457.311, 0.00256\r\n459.311, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Trioctylphosphine selenide (TOPSe) [M+H]+",
+        "molecular_formula": "C24H52PSe",
+        "download_timestamp": "2025-08-20 14:58:11",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "385.376, 0\r\n387.376, 100\r\n388.379, 25.95775\r\n388.38, 0.03809\r\n388.382, 0.59807\r\n389.38, 0.2055\r\n389.382, 3.22865\r\n389.383, 0.00989\r\n389.385, 0.15525\r\n389.388, 0.00175\r\n390.383, 0.05334\r\n390.386, 0.25731\r\n390.387, 0.00123\r\n390.389, 0.01931\r\n391.387, 0.00663\r\n391.389, 0.01454\r\n391.392, 0.00153\r\n393.392, 0\r\n",
+      "nominalMass": 387,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C24H52OP",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 16,
+        "resolution": 0.001
+      },
+      "em": 387.3755779193,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 387.3755779193,
+          "mf": "C24H52OP",
+          "mw": 387.643747,
+          "ea": [
+            {
+              "number": 24,
+              "percentage": 74.361489,
+              "element": "C"
+            },
+            {
+              "number": 52,
+              "percentage": 13.520899,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 4.127348,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 7.990265,
+              "element": "P"
+            }
+          ],
+          "msem": 387.3755779193
+        }
+      ],
+      "mf": "C24H52OP",
+      "mw": 387.643747,
+      "jcamp": "##TITLE= C24H52OP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 18\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=387.643747\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=387.3755779193\r\n##PEAK TABLE= (XY..XY)\r\n385.376, 0\r\n387.376, 100\r\n388.379, 25.95775\r\n388.38, 0.03809\r\n388.382, 0.59807\r\n389.38, 0.2055\r\n389.382, 3.22865\r\n389.383, 0.00989\r\n389.385, 0.15525\r\n389.388, 0.00175\r\n390.383, 0.05334\r\n390.386, 0.25731\r\n390.387, 0.00123\r\n390.389, 0.01931\r\n391.387, 0.00663\r\n391.389, 0.01454\r\n391.392, 0.00153\r\n393.392, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Trioctylphosphine oxide (TOPO) [M+H]+",
+        "molecular_formula": "C24H52OP",
+        "download_timestamp": "2025-08-20 14:58:13",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "185.068, 0\r\n187.068, 100\r\n188.071, 12.97887\r\n188.074, 0.13802\r\n189.074, 0.77207\r\n189.077, 0.01791\r\n190.078, 0.02783\r\n190.081, 0.00107\r\n192.081, 0\r\n",
+      "nominalMass": 187,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C12H12P",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 7,
+        "resolution": 0.001
+      },
+      "em": 187.0676620169,
+      "parts": [
+        {
+          "unsaturation": 7.5,
+          "em": 187.0676620169,
+          "mf": "C12H12P",
+          "mw": 187.197881,
+          "ea": [
+            {
+              "number": 12,
+              "percentage": 76.992768,
+              "element": "C"
+            },
+            {
+              "number": 12,
+              "percentage": 6.461232,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 16.546,
+              "element": "P"
+            }
+          ],
+          "msem": 187.0676620169
+        }
+      ],
+      "mf": "C12H12P",
+      "mw": 187.197881,
+      "jcamp": "##TITLE= C12H12P - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 9\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=7.5\r\n##$Molecular weight=187.197881\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=187.0676620169\r\n##PEAK TABLE= (XY..XY)\r\n185.068, 0\r\n187.068, 100\r\n188.071, 12.97887\r\n188.074, 0.13802\r\n189.074, 0.77207\r\n189.077, 0.01791\r\n190.078, 0.02783\r\n190.081, 0.00107\r\n192.081, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Diphenylphosphine (DPP) [M+H]+",
+        "molecular_formula": "C12H12P",
+        "download_timestamp": "2025-08-20 14:58:14",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "201.063, 0\r\n203.063, 100\r\n204.066, 12.97887\r\n204.067, 0.03809\r\n204.069, 0.13802\r\n205.067, 0.2055\r\n205.069, 0.77207\r\n205.07, 0.00494\r\n205.072, 0.01791\r\n206.07, 0.02667\r\n206.073, 0.02783\r\n206.076, 0.00107\r\n207.074, 0.00159\r\n209.074, 0\r\n",
+      "nominalMass": 203,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C12H12OP",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 12,
+        "resolution": 0.001
+      },
+      "em": 203.0625766364,
+      "parts": [
+        {
+          "unsaturation": 7.5,
+          "em": 203.0625766364,
+          "mf": "C12H12OP",
+          "mw": 203.197286,
+          "ea": [
+            {
+              "number": 12,
+              "percentage": 70.93049,
+              "element": "C"
+            },
+            {
+              "number": 12,
+              "percentage": 5.952486,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 7.873828,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 15.243197,
+              "element": "P"
+            }
+          ],
+          "msem": 203.0625766364
+        }
+      ],
+      "mf": "C12H12OP",
+      "mw": 203.197286,
+      "jcamp": "##TITLE= C12H12OP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 14\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=7.5\r\n##$Molecular weight=203.197286\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=203.0625766364\r\n##PEAK TABLE= (XY..XY)\r\n201.063, 0\r\n203.063, 100\r\n204.066, 12.97887\r\n204.067, 0.03809\r\n204.069, 0.13802\r\n205.067, 0.2055\r\n205.069, 0.77207\r\n205.07, 0.00494\r\n205.072, 0.01791\r\n206.07, 0.02667\r\n206.073, 0.02783\r\n206.076, 0.00107\r\n207.074, 0.00159\r\n209.074, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Diphenylphosphine oxide (DPPO) [M+H]+",
+        "molecular_formula": "C12H12OP",
+        "download_timestamp": "2025-08-20 14:58:16",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "281.264, 0\r\n283.264, 100\r\n284.267, 19.46831\r\n284.268, 0.07619\r\n284.27, 0.40255\r\n285.268, 0.411\r\n285.27, 1.78979\r\n285.271, 0.01483\r\n285.273, 0.07837\r\n286.271, 0.08001\r\n286.274, 0.1049\r\n286.275, 0.00136\r\n286.277, 0.0072\r\n287.275, 0.00736\r\n287.277, 0.00419\r\n289.277, 0\r\n",
+      "nominalMass": 283,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C18H35O2",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 14,
+        "resolution": 0.001
+      },
+      "em": 283.2637053616,
+      "parts": [
+        {
+          "unsaturation": 1.5,
+          "em": 283.2637053616,
+          "mf": "C18H35O2",
+          "mw": 283.469982,
+          "ea": [
+            {
+              "number": 18,
+              "percentage": 76.266716,
+              "element": "C"
+            },
+            {
+              "number": 35,
+              "percentage": 12.445031,
+              "element": "H"
+            },
+            {
+              "number": 2,
+              "percentage": 11.288253,
+              "element": "O"
+            }
+          ],
+          "msem": 283.2637053616
+        }
+      ],
+      "mf": "C18H35O2",
+      "mw": 283.469982,
+      "jcamp": "##TITLE= C18H35O2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 16\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=1.5\r\n##$Molecular weight=283.469982\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=283.2637053616\r\n##PEAK TABLE= (XY..XY)\r\n281.264, 0\r\n283.264, 100\r\n284.267, 19.46831\r\n284.268, 0.07619\r\n284.27, 0.40255\r\n285.268, 0.411\r\n285.27, 1.78979\r\n285.271, 0.01483\r\n285.273, 0.07837\r\n286.271, 0.08001\r\n286.274, 0.1049\r\n286.275, 0.00136\r\n286.277, 0.0072\r\n287.275, 0.00736\r\n287.277, 0.00419\r\n289.277, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Oleic acid (OA) [M+H]+",
+        "molecular_formula": "C18H35O2",
+        "download_timestamp": "2025-08-20 14:58:18",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "251.29, 0\r\n253.29, 100\r\n254.293, 19.46831\r\n254.296, 0.42555\r\n255.296, 1.78979\r\n255.299, 0.08285\r\n256.3, 0.10324\r\n256.303, 0.00762\r\n257.303, 0.00419\r\n259.303, 0\r\n",
+      "nominalMass": 253,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C18H37",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 253.2895261866,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 253.2895261866,
+          "mf": "C18H37",
+          "mw": 253.487054,
+          "ea": [
+            {
+              "number": 18,
+              "percentage": 85.287687,
+              "element": "C"
+            },
+            {
+              "number": 37,
+              "percentage": 14.712313,
+              "element": "H"
+            }
+          ],
+          "msem": 253.2895261866
+        }
+      ],
+      "mf": "C18H37",
+      "mw": 253.487054,
+      "jcamp": "##TITLE= C18H37 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=253.487054\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=253.2895261866\r\n##PEAK TABLE= (XY..XY)\r\n251.29, 0\r\n253.29, 100\r\n254.293, 19.46831\r\n254.296, 0.42555\r\n255.296, 1.78979\r\n255.299, 0.08285\r\n256.3, 0.10324\r\n256.303, 0.00762\r\n257.303, 0.00419\r\n259.303, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "1-Octadecene (ODE) [M+H]+",
+        "molecular_formula": "C18H37",
+        "download_timestamp": "2025-08-20 14:58:19",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "61.045, 0\r\n63.045, 100\r\n64.048, 2.16315\r\n64.049, 0.07619\r\n64.051, 0.08051\r\n65.049, 0.411\r\n65.051, 0.0117\r\n65.052, 0.00165\r\n65.054, 0.00174\r\n66.052, 0.00889\r\n68.052, 0\r\n",
+      "nominalMass": 63,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C2H7O2",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 9,
+        "resolution": 0.001
+      },
+      "em": 63.0446044636,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 63.0446044636,
+          "mf": "C2H7O2",
+          "mw": 63.075867,
+          "ea": [
+            {
+              "number": 2,
+              "percentage": 38.083459,
+              "element": "C"
+            },
+            {
+              "number": 7,
+              "percentage": 11.185871,
+              "element": "H"
+            },
+            {
+              "number": 2,
+              "percentage": 50.73067,
+              "element": "O"
+            }
+          ],
+          "msem": 63.0446044636
+        }
+      ],
+      "mf": "C2H7O2",
+      "mw": 63.075867,
+      "jcamp": "##TITLE= C2H7O2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 11\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=63.075867\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=63.0446044636\r\n##PEAK TABLE= (XY..XY)\r\n61.045, 0\r\n63.045, 100\r\n64.048, 2.16315\r\n64.049, 0.07619\r\n64.051, 0.08051\r\n65.049, 0.411\r\n65.051, 0.0117\r\n65.052, 0.00165\r\n65.054, 0.00174\r\n66.052, 0.00889\r\n68.052, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Ethylene glycol (EG) [M+H]+",
+        "molecular_formula": "C2H7O2",
+        "download_timestamp": "2025-08-20 14:58:21",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "40.034, 0\r\n42.034, 100\r\n43.031, 0.36533\r\n43.038, 2.16315\r\n43.041, 0.04601\r\n44.035, 0.0079\r\n44.041, 0.0117\r\n46.041, 0\r\n",
+      "nominalMass": 42,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C2H4N",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 42.0343741331,
+      "parts": [
+        {
+          "unsaturation": 1.5,
+          "em": 42.0343741331,
+          "mf": "C2H4N",
+          "mw": 42.059938,
+          "ea": [
+            {
+              "number": 2,
+              "percentage": 57.112476,
+              "element": "C"
+            },
+            {
+              "number": 4,
+              "percentage": 9.585756,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 33.301769,
+              "element": "N"
+            }
+          ],
+          "msem": 42.0343741331
+        }
+      ],
+      "mf": "C2H4N",
+      "mw": 42.059938,
+      "jcamp": "##TITLE= C2H4N - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=1.5\r\n##$Molecular weight=42.059938\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=42.0343741331\r\n##PEAK TABLE= (XY..XY)\r\n40.034, 0\r\n42.034, 100\r\n43.031, 0.36533\r\n43.038, 2.16315\r\n43.041, 0.04601\r\n44.035, 0.0079\r\n44.041, 0.0117\r\n46.041, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Acetonitrile [M+H]+",
+        "molecular_formula": "C2H4N",
+        "download_timestamp": "2025-08-20 14:58:22",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "85.117, 0\r\n87.117, 100\r\n88.121, 6.48944\r\n88.124, 0.17252\r\n89.124, 0.17547\r\n89.127, 0.0112\r\n90.127, 0.00253\r\n92.127, 0\r\n",
+      "nominalMass": 87,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H15",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 87.1173754811,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 87.1173754811,
+          "mf": "C6H15",
+          "mw": 87.183527,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 82.658293,
+              "element": "C"
+            },
+            {
+              "number": 15,
+              "percentage": 17.341706,
+              "element": "H"
+            }
+          ],
+          "msem": 87.1173754811
+        }
+      ],
+      "mf": "C6H15",
+      "mw": 87.183527,
+      "jcamp": "##TITLE= C6H15 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=87.183527\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=87.1173754811\r\n##PEAK TABLE= (XY..XY)\r\n85.117, 0\r\n87.117, 100\r\n88.121, 6.48944\r\n88.124, 0.17252\r\n89.124, 0.17547\r\n89.127, 0.0112\r\n90.127, 0.00253\r\n92.127, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "n-Hexane [M+H]+ (weak)",
+        "molecular_formula": "C6H15",
+        "download_timestamp": "2025-08-20 14:58:24",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "91.07, 0\r\n93.07, 100\r\n94.074, 7.57101\r\n94.077, 0.10351\r\n95.077, 0.24566\r\n95.08, 0.00784\r\n96.08, 0.00443\r\n98.08, 0\r\n",
+      "nominalMass": 93,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C7H9",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 93.0704252886,
+      "parts": [
+        {
+          "unsaturation": 3.5,
+          "em": 93.0704252886,
+          "mf": "C7H9",
+          "mw": 93.146618,
+          "ea": [
+            {
+              "number": 7,
+              "percentage": 90.261088,
+              "element": "C"
+            },
+            {
+              "number": 9,
+              "percentage": 9.738912,
+              "element": "H"
+            }
+          ],
+          "msem": 93.0704252886
+        }
+      ],
+      "mf": "C7H9",
+      "mw": 93.146618,
+      "jcamp": "##TITLE= C7H9 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=3.5\r\n##$Molecular weight=93.146618\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=93.0704252886\r\n##PEAK TABLE= (XY..XY)\r\n91.07, 0\r\n93.07, 100\r\n94.074, 7.57101\r\n94.077, 0.10351\r\n95.077, 0.24566\r\n95.08, 0.00784\r\n96.08, 0.00443\r\n98.08, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Toluene [M+H]+ (weak)",
+        "molecular_formula": "C7H9",
+        "download_timestamp": "2025-08-20 14:58:25",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "195.067, 0\r\n197.067, 100\r\n198.066, 5.86963\r\n198.07, 6.48944\r\n198.071, 0.11428\r\n198.073, 0.19552\r\n199.063, 4.47416\r\n199.064, 3.35274\r\n199.066, 0.04011\r\n199.07, 0.38091\r\n199.071, 0.6223\r\n199.072, 0.00154\r\n199.073, 0.1854\r\n199.074, 0.00742\r\n199.076, 0.01269\r\n200.062, 0.22729\r\n200.063, 0.02647\r\n200.066, 0.29035\r\n200.067, 0.22269\r\n200.068, 0.00383\r\n200.069, 0.01135\r\n200.07, 0.01142\r\n200.071, 0.03132\r\n200.073, 0.0103\r\n200.074, 0.04001\r\n200.077, 0.00375\r\n201.059, 0.15001\r\n201.062, 0.01053\r\n201.065, 0.01475\r\n201.066, 0.00198\r\n201.067, 0.02758\r\n201.068, 0.02067\r\n201.069, 0.0079\r\n201.07, 0.00588\r\n201.074, 0.00203\r\n201.075, 0.00127\r\n201.078, 0.00108\r\n202.063, 0.00973\r\n202.066, 0.0014\r\n202.07, 0.00179\r\n202.071, 0.00134\r\n204.071, 0\r\n",
+      "nominalMass": 197,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H17O3SSi",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 40,
+        "resolution": 0.001
+      },
+      "em": 197.0667669379,
+      "parts": [
+        {
+          "em": 197.0667669379,
+          "mf": "C6H17O3SSi",
+          "mw": 197.347909,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 36.516432,
+              "element": "C"
+            },
+            {
+              "number": 17,
+              "percentage": 8.682632,
+              "element": "H"
+            },
+            {
+              "number": 3,
+              "percentage": 24.321623,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 16.247847,
+              "element": "S"
+            },
+            {
+              "number": 1,
+              "percentage": 14.231465,
+              "element": "Si"
+            }
+          ],
+          "msem": 197.0667669379
+        }
+      ],
+      "mf": "C6H17O3SSi",
+      "mw": 197.347909,
+      "jcamp": "##TITLE= C6H17O3SSi - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 42\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Molecular weight=197.347909\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=197.0667669379\r\n##PEAK TABLE= (XY..XY)\r\n195.067, 0\r\n197.067, 100\r\n198.066, 5.86963\r\n198.07, 6.48944\r\n198.071, 0.11428\r\n198.073, 0.19552\r\n199.063, 4.47416\r\n199.064, 3.35274\r\n199.066, 0.04011\r\n199.07, 0.38091\r\n199.071, 0.6223\r\n199.072, 0.00154\r\n199.073, 0.1854\r\n199.074, 0.00742\r\n199.076, 0.01269\r\n200.062, 0.22729\r\n200.063, 0.02647\r\n200.066, 0.29035\r\n200.067, 0.22269\r\n200.068, 0.00383\r\n200.069, 0.01135\r\n200.07, 0.01142\r\n200.071, 0.03132\r\n200.073, 0.0103\r\n200.074, 0.04001\r\n200.077, 0.00375\r\n201.059, 0.15001\r\n201.062, 0.01053\r\n201.065, 0.01475\r\n201.066, 0.00198\r\n201.067, 0.02758\r\n201.068, 0.02067\r\n201.069, 0.0079\r\n201.07, 0.00588\r\n201.074, 0.00203\r\n201.075, 0.00127\r\n201.078, 0.00108\r\n202.063, 0.00973\r\n202.066, 0.0014\r\n202.07, 0.00179\r\n202.071, 0.00134\r\n204.071, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "3-Mercaptopropyltrimethoxysilane (3-MPTMS) [M+H]+",
+        "molecular_formula": "C6H17O3SSi",
+        "download_timestamp": "2025-08-20 14:58:27",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "153.02, 0\r\n155.02, 100\r\n156.019, 5.86963\r\n156.023, 3.24472\r\n156.024, 0.11428\r\n156.026, 0.12651\r\n157.016, 4.47416\r\n157.017, 3.35274\r\n157.019, 0.04011\r\n157.023, 0.19045\r\n157.024, 0.6223\r\n157.026, 0.00643\r\n157.027, 0.0388\r\n157.029, 0.00411\r\n158.015, 0.22729\r\n158.016, 0.02647\r\n158.019, 0.14517\r\n158.02, 0.1139\r\n158.021, 0.00383\r\n158.022, 0.00696\r\n158.023, 0.00911\r\n158.024, 0.03132\r\n158.026, 0.00178\r\n158.027, 0.02\r\n159.012, 0.15001\r\n159.015, 0.01053\r\n159.019, 0.00849\r\n159.02, 0.02758\r\n159.021, 0.02067\r\n159.022, 0.0016\r\n159.023, 0.00118\r\n159.027, 0.00102\r\n159.028, 0.00127\r\n160.016, 0.00487\r\n160.019, 0.0014\r\n162.019, 0\r\n",
+      "nominalMass": 155,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C3H11O3SSi",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 34,
+        "resolution": 0.001
+      },
+      "em": 155.0198167455,
+      "parts": [
+        {
+          "em": 155.0198167455,
+          "mf": "C3H11O3SSi",
+          "mw": 155.268057,
+          "ea": [
+            {
+              "number": 3,
+              "percentage": 23.206452,
+              "element": "C"
+            },
+            {
+              "number": 11,
+              "percentage": 7.140779,
+              "element": "H"
+            },
+            {
+              "number": 3,
+              "percentage": 30.913129,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 20.651245,
+              "element": "S"
+            },
+            {
+              "number": 1,
+              "percentage": 18.088395,
+              "element": "Si"
+            }
+          ],
+          "msem": 155.0198167455
+        }
+      ],
+      "mf": "C3H11O3SSi",
+      "mw": 155.268057,
+      "jcamp": "##TITLE= C3H11O3SSi - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 36\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Molecular weight=155.268057\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=155.0198167455\r\n##PEAK TABLE= (XY..XY)\r\n153.02, 0\r\n155.02, 100\r\n156.019, 5.86963\r\n156.023, 3.24472\r\n156.024, 0.11428\r\n156.026, 0.12651\r\n157.016, 4.47416\r\n157.017, 3.35274\r\n157.019, 0.04011\r\n157.023, 0.19045\r\n157.024, 0.6223\r\n157.026, 0.00643\r\n157.027, 0.0388\r\n157.029, 0.00411\r\n158.015, 0.22729\r\n158.016, 0.02647\r\n158.019, 0.14517\r\n158.02, 0.1139\r\n158.021, 0.00383\r\n158.022, 0.00696\r\n158.023, 0.00911\r\n158.024, 0.03132\r\n158.026, 0.00178\r\n158.027, 0.02\r\n159.012, 0.15001\r\n159.015, 0.01053\r\n159.019, 0.00849\r\n159.02, 0.02758\r\n159.021, 0.02067\r\n159.022, 0.0016\r\n159.023, 0.00118\r\n159.027, 0.00102\r\n159.028, 0.00127\r\n160.016, 0.00487\r\n160.019, 0.0014\r\n162.019, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "3-Mercaptopropylsilanetriol (from 3-MPTMS hydrolysis) [M+H]+",
+        "molecular_formula": "C3H11O3SSi",
+        "download_timestamp": "2025-08-20 14:58:28",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "92.066, 0\r\n94.066, 100\r\n95.063, 0.36533\r\n95.069, 6.48944\r\n95.072, 0.09201\r\n96.066, 0.02371\r\n96.072, 0.17547\r\n96.075, 0.00597\r\n97.076, 0.00253\r\n99.076, 0\r\n",
+      "nominalMass": 94,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H8N",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 94.0656742614,
+      "parts": [
+        {
+          "unsaturation": 3.5,
+          "em": 94.0656742614,
+          "mf": "C6H8N",
+          "mw": 94.134645,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 76.554615,
+              "element": "C"
+            },
+            {
+              "number": 8,
+              "percentage": 8.565949,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 14.879435,
+              "element": "N"
+            }
+          ],
+          "msem": 94.0656742614
+        }
+      ],
+      "mf": "C6H8N",
+      "mw": 94.134645,
+      "jcamp": "##TITLE= C6H8N - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=3.5\r\n##$Molecular weight=94.134645\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=94.0656742614\r\n##PEAK TABLE= (XY..XY)\r\n92.066, 0\r\n94.066, 100\r\n95.063, 0.36533\r\n95.069, 6.48944\r\n95.072, 0.09201\r\n96.066, 0.02371\r\n96.072, 0.17547\r\n96.075, 0.00597\r\n97.076, 0.00253\r\n99.076, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Aniline [M+H]+",
+        "molecular_formula": "C6H8N",
+        "download_timestamp": "2025-08-20 14:58:30",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "148.113, 0\r\n150.113, 100\r\n151.11, 0.36533\r\n151.116, 6.48944\r\n151.117, 0.11428\r\n151.119, 0.18402\r\n152.113, 0.02371\r\n152.117, 0.6165\r\n152.12, 0.17547\r\n152.121, 0.00742\r\n152.123, 0.01194\r\n153.114, 0.00225\r\n153.121, 0.04001\r\n153.123, 0.00253\r\n153.124, 0.00113\r\n154.122, 0.00127\r\n154.124, 0.00108\r\n156.124, 0\r\n",
+      "nominalMass": 150,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H16NO3",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 16,
+        "resolution": 0.001
+      },
+      "em": 150.1130183767,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 150.1130183767,
+          "mf": "C6H16NO3",
+          "mw": 150.196385,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 47.980126,
+              "element": "C"
+            },
+            {
+              "number": 16,
+              "percentage": 10.73731,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 9.325593,
+              "element": "N"
+            },
+            {
+              "number": 3,
+              "percentage": 31.956971,
+              "element": "O"
+            }
+          ],
+          "msem": 150.1130183767
+        }
+      ],
+      "mf": "C6H16NO3",
+      "mw": 150.196385,
+      "jcamp": "##TITLE= C6H16NO3 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 18\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=150.196385\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=150.1130183767\r\n##PEAK TABLE= (XY..XY)\r\n148.113, 0\r\n150.113, 100\r\n151.11, 0.36533\r\n151.116, 6.48944\r\n151.117, 0.11428\r\n151.119, 0.18402\r\n152.113, 0.02371\r\n152.117, 0.6165\r\n152.12, 0.17547\r\n152.121, 0.00742\r\n152.123, 0.01194\r\n153.114, 0.00225\r\n153.121, 0.04001\r\n153.123, 0.00253\r\n153.124, 0.00113\r\n154.122, 0.00127\r\n154.124, 0.00108\r\n156.124, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Triethanolamine (TEA) [M+H]+",
+        "molecular_formula": "C6H16NO3",
+        "download_timestamp": "2025-08-20 14:58:31",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "100.128, 0\r\n102.128, 100\r\n103.125, 0.36533\r\n103.132, 6.48944\r\n103.135, 0.18402\r\n104.129, 0.02371\r\n104.135, 0.17547\r\n104.138, 0.01194\r\n105.138, 0.00253\r\n107.138, 0\r\n",
+      "nominalMass": 102,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H16N",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 102.128274518,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 102.128274518,
+          "mf": "C6H16N",
+          "mw": 102.198171,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 70.514389,
+              "element": "C"
+            },
+            {
+              "number": 16,
+              "percentage": 15.780177,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 13.705434,
+              "element": "N"
+            }
+          ],
+          "msem": 102.128274518
+        }
+      ],
+      "mf": "C6H16N",
+      "mw": 102.198171,
+      "jcamp": "##TITLE= C6H16N - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=102.198171\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=102.128274518\r\n##PEAK TABLE= (XY..XY)\r\n100.128, 0\r\n102.128, 100\r\n103.125, 0.36533\r\n103.132, 6.48944\r\n103.135, 0.18402\r\n104.129, 0.02371\r\n104.135, 0.17547\r\n104.138, 0.01194\r\n105.138, 0.00253\r\n107.138, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Triethylamine [M+H]+",
+        "molecular_formula": "C6H16N",
+        "download_timestamp": "2025-08-20 14:58:33",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "240.285, 0\r\n242.285, 100\r\n243.282, 0.36533\r\n243.288, 17.30517\r\n243.291, 0.41405\r\n244.285, 0.06322\r\n244.288, 0.00151\r\n244.291, 1.40376\r\n244.294, 0.07165\r\n245.289, 0.00513\r\n245.295, 0.07085\r\n245.298, 0.00581\r\n246.298, 0.00249\r\n248.298, 0\r\n",
+      "nominalMass": 242,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C16H36N",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 12,
+        "resolution": 0.001
+      },
+      "em": 242.2847751594,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 242.2847751594,
+          "mf": "C16H36N",
+          "mw": 242.464345,
+          "ea": [
+            {
+              "number": 16,
+              "percentage": 79.257746,
+              "element": "C"
+            },
+            {
+              "number": 36,
+              "percentage": 14.965445,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 5.776809,
+              "element": "N"
+            }
+          ],
+          "msem": 242.2847751594
+        }
+      ],
+      "mf": "C16H36N",
+      "mw": 242.464345,
+      "jcamp": "##TITLE= C16H36N - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 14\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=242.464345\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=242.2847751594\r\n##PEAK TABLE= (XY..XY)\r\n240.285, 0\r\n242.285, 100\r\n243.282, 0.36533\r\n243.288, 17.30517\r\n243.291, 0.41405\r\n244.285, 0.06322\r\n244.288, 0.00151\r\n244.291, 1.40376\r\n244.294, 0.07165\r\n245.289, 0.00513\r\n245.295, 0.07085\r\n245.298, 0.00581\r\n246.298, 0.00249\r\n248.298, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Tetrabutylammonium (TBA+) (intrinsic cation)",
+        "molecular_formula": "C16H36N",
+        "download_timestamp": "2025-08-20 14:58:34",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "59.077, 0\r\n61.077, 100\r\n62.074, 0.73066\r\n62.08, 2.16315\r\n62.083, 0.10351\r\n63.071, 0.00133\r\n63.077, 0.01581\r\n63.083, 0.0117\r\n63.086, 0.00224\r\n65.086, 0\r\n",
+      "nominalMass": 61,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C2H9N2",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 61.0765732984,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 61.0765732984,
+          "mf": "C2H9N2",
+          "mw": 61.106345,
+          "ea": [
+            {
+              "number": 2,
+              "percentage": 39.310929,
+              "element": "C"
+            },
+            {
+              "number": 9,
+              "percentage": 14.845376,
+              "element": "H"
+            },
+            {
+              "number": 2,
+              "percentage": 45.843695,
+              "element": "N"
+            }
+          ],
+          "msem": 61.0765732984
+        }
+      ],
+      "mf": "C2H9N2",
+      "mw": 61.106345,
+      "jcamp": "##TITLE= C2H9N2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=61.106345\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=61.0765732984\r\n##PEAK TABLE= (XY..XY)\r\n59.077, 0\r\n61.077, 100\r\n62.074, 0.73066\r\n62.08, 2.16315\r\n62.083, 0.10351\r\n63.071, 0.00133\r\n63.077, 0.01581\r\n63.083, 0.0117\r\n63.086, 0.00224\r\n65.086, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Ethylenediamine (EDA) [M+H]+",
+        "molecular_formula": "C2H9N2",
+        "download_timestamp": "2025-08-20 14:58:36",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "84.097, 0\r\n86.097, 100\r\n87.094, 0.36533\r\n87.1, 5.40786\r\n87.103, 0.13802\r\n88.097, 0.01976\r\n88.104, 0.11698\r\n88.107, 0.00746\r\n89.107, 0.00127\r\n91.107, 0\r\n",
+      "nominalMass": 86,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C5H12N",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 86.0969743897,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 86.0969743897,
+          "mf": "C5H12N",
+          "mw": 86.155672,
+          "ea": [
+            {
+              "number": 5,
+              "percentage": 69.703686,
+              "element": "C"
+            },
+            {
+              "number": 12,
+              "percentage": 14.038877,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 16.257436,
+              "element": "N"
+            }
+          ],
+          "msem": 86.0969743897
+        }
+      ],
+      "mf": "C5H12N",
+      "mw": 86.155672,
+      "jcamp": "##TITLE= C5H12N - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=86.155672\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=86.0969743897\r\n##PEAK TABLE= (XY..XY)\r\n84.097, 0\r\n86.097, 100\r\n87.094, 0.36533\r\n87.1, 5.40786\r\n87.103, 0.13802\r\n88.097, 0.01976\r\n88.104, 0.11698\r\n88.107, 0.00746\r\n89.107, 0.00127\r\n91.107, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Piperidine [M+H]+",
+        "molecular_formula": "C5H12N",
+        "download_timestamp": "2025-08-20 14:58:37",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "128.066, 0\r\n130.066, 100\r\n131.063, 0.36533\r\n131.069, 9.73416\r\n131.072, 0.09201\r\n132.066, 0.03556\r\n132.072, 0.42113\r\n132.075, 0.00896\r\n133.069, 0.00154\r\n133.076, 0.01063\r\n135.076, 0\r\n",
+      "nominalMass": 130,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C9H8N",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 9,
+        "resolution": 0.001
+      },
+      "em": 130.0656742614,
+      "parts": [
+        {
+          "unsaturation": 6.5,
+          "em": 130.0656742614,
+          "mf": "C9H8N",
+          "mw": 130.166852,
+          "ea": [
+            {
+              "number": 9,
+              "percentage": 83.044663,
+              "element": "C"
+            },
+            {
+              "number": 8,
+              "percentage": 6.194761,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 10.760576,
+              "element": "N"
+            }
+          ],
+          "msem": 130.0656742614
+        }
+      ],
+      "mf": "C9H8N",
+      "mw": 130.166852,
+      "jcamp": "##TITLE= C9H8N - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 11\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=6.5\r\n##$Molecular weight=130.166852\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=130.0656742614\r\n##PEAK TABLE= (XY..XY)\r\n128.066, 0\r\n130.066, 100\r\n131.063, 0.36533\r\n131.069, 9.73416\r\n131.072, 0.09201\r\n132.066, 0.03556\r\n132.072, 0.42113\r\n132.075, 0.00896\r\n133.069, 0.00154\r\n133.076, 0.01063\r\n135.076, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Quinoline [M+H]+",
+        "molecular_formula": "C9H8N",
+        "download_timestamp": "2025-08-20 14:58:39",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "145.045, 0\r\n147.045, 100\r\n148.048, 9.73416\r\n148.049, 0.07619\r\n148.051, 0.08051\r\n149.049, 0.411\r\n149.051, 0.42113\r\n149.052, 0.00742\r\n149.054, 0.00784\r\n150.052, 0.04001\r\n150.055, 0.01063\r\n151.056, 0.00173\r\n153.056, 0\r\n",
+      "nominalMass": 147,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C9H7O2",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 11,
+        "resolution": 0.001
+      },
+      "em": 147.0446044636,
+      "parts": [
+        {
+          "unsaturation": 6.5,
+          "em": 147.0446044636,
+          "mf": "C9H7O2",
+          "mw": 147.151018,
+          "ea": [
+            {
+              "number": 9,
+              "percentage": 73.45965,
+              "element": "C"
+            },
+            {
+              "number": 7,
+              "percentage": 4.794792,
+              "element": "H"
+            },
+            {
+              "number": 2,
+              "percentage": 21.745558,
+              "element": "O"
+            }
+          ],
+          "msem": 147.0446044636
+        }
+      ],
+      "mf": "C9H7O2",
+      "mw": 147.151018,
+      "jcamp": "##TITLE= C9H7O2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 13\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=6.5\r\n##$Molecular weight=147.151018\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=147.0446044636\r\n##PEAK TABLE= (XY..XY)\r\n145.045, 0\r\n147.045, 100\r\n148.048, 9.73416\r\n148.049, 0.07619\r\n148.051, 0.08051\r\n149.049, 0.411\r\n149.051, 0.42113\r\n149.052, 0.00742\r\n149.054, 0.00784\r\n150.052, 0.04001\r\n150.055, 0.01063\r\n151.056, 0.00173\r\n153.056, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Coumarin [M+H]+",
+        "molecular_formula": "C9H7O2",
+        "download_timestamp": "2025-08-20 14:58:41",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "230.134, 0\r\n232.134, 100\r\n233.131, 0.36533\r\n233.137, 15.14202\r\n233.138, 0.07619\r\n233.14, 0.20702\r\n234.134, 0.05532\r\n234.138, 0.411\r\n234.14, 1.06452\r\n234.141, 0.01154\r\n234.143, 0.03135\r\n235.135, 0.0015\r\n235.137, 0.00389\r\n235.141, 0.06223\r\n235.144, 0.04605\r\n235.147, 0.0022\r\n236.145, 0.00438\r\n236.147, 0.00137\r\n238.147, 0\r\n",
+      "nominalMass": 232,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C14H18NO2",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 17,
+        "resolution": 0.001
+      },
+      "em": 232.1337538213,
+      "parts": [
+        {
+          "unsaturation": 6.5,
+          "em": 232.1337538213,
+          "mf": "C14H18NO2",
+          "mw": 232.298749,
+          "ea": [
+            {
+              "number": 14,
+              "percentage": 72.385367,
+              "element": "C"
+            },
+            {
+              "number": 18,
+              "percentage": 7.810173,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 6.029608,
+              "element": "N"
+            },
+            {
+              "number": 2,
+              "percentage": 13.774852,
+              "element": "O"
+            }
+          ],
+          "msem": 232.1337538213
+        }
+      ],
+      "mf": "C14H18NO2",
+      "mw": 232.298749,
+      "jcamp": "##TITLE= C14H18NO2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 19\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=6.5\r\n##$Molecular weight=232.298749\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=232.1337538213\r\n##PEAK TABLE= (XY..XY)\r\n230.134, 0\r\n232.134, 100\r\n233.131, 0.36533\r\n233.137, 15.14202\r\n233.138, 0.07619\r\n233.14, 0.20702\r\n234.134, 0.05532\r\n234.138, 0.411\r\n234.14, 1.06452\r\n234.141, 0.01154\r\n234.143, 0.03135\r\n235.135, 0.0015\r\n235.137, 0.00389\r\n235.141, 0.06223\r\n235.144, 0.04605\r\n235.147, 0.0022\r\n236.145, 0.00438\r\n236.147, 0.00137\r\n238.147, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "(E)-1-Piperidino-3-(2-hydroxyphenyl)-2-propen-1-one (WPBG-027) [M+H]+",
+        "molecular_formula": "C14H18NO2",
+        "download_timestamp": "2025-08-20 14:58:42",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "303.246, 0\r\n305.246, 100\r\n306.249, 19.46831\r\n306.25, 0.07619\r\n306.252, 0.39104\r\n307.25, 0.411\r\n307.252, 1.78979\r\n307.253, 0.01483\r\n307.255, 0.07613\r\n308.253, 0.08001\r\n308.256, 0.10485\r\n308.257, 0.00136\r\n308.259, 0.007\r\n309.257, 0.00736\r\n309.259, 0.00419\r\n311.259, 0\r\n",
+      "nominalMass": 305,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C18H34O2Na",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 14,
+        "resolution": 0.001
+      },
+      "em": 305.2456496105,
+      "parts": [
+        {
+          "unsaturation": 1.5,
+          "em": 305.2456496105,
+          "mf": "C18H34NaO2",
+          "mw": 305.451811,
+          "ea": [
+            {
+              "number": 18,
+              "percentage": 70.778184,
+              "element": "C"
+            },
+            {
+              "number": 34,
+              "percentage": 11.219441,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 7.52648,
+              "element": "Na"
+            },
+            {
+              "number": 2,
+              "percentage": 10.475895,
+              "element": "O"
+            }
+          ],
+          "msem": 305.2456496105
+        }
+      ],
+      "mf": "C18H34NaO2",
+      "mw": 305.451811,
+      "jcamp": "##TITLE= C18H34NaO2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 16\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=1.5\r\n##$Molecular weight=305.451811\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=305.2456496105\r\n##PEAK TABLE= (XY..XY)\r\n303.246, 0\r\n305.246, 100\r\n306.249, 19.46831\r\n306.25, 0.07619\r\n306.252, 0.39104\r\n307.25, 0.411\r\n307.252, 1.78979\r\n307.253, 0.01483\r\n307.255, 0.07613\r\n308.253, 0.08001\r\n308.256, 0.10485\r\n308.257, 0.00136\r\n308.259, 0.007\r\n309.257, 0.00736\r\n309.259, 0.00419\r\n311.259, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Oleic acid [M+Na]+",
+        "molecular_formula": "C18H34O2Na",
+        "download_timestamp": "2025-08-20 14:58:44",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "563.52, 0\r\n565.52, 100\r\n566.523, 38.93662\r\n566.524, 0.15237\r\n566.526, 0.79359\r\n567.524, 0.822\r\n567.526, 7.36974\r\n567.527, 0.05933\r\n567.529, 0.309\r\n567.53, 0.00121\r\n567.532, 0.0031\r\n568.527, 0.32006\r\n568.53, 0.90989\r\n568.531, 0.01123\r\n568.533, 0.05849\r\n568.535, 0.00121\r\n569.528, 0.00253\r\n569.531, 0.06058\r\n569.533, 0.08315\r\n569.534, 0.00138\r\n569.536, 0.00717\r\n570.534, 0.00743\r\n570.536, 0.00558\r\n572.536, 0\r\n",
+      "nominalMass": 565,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C36H69O4",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 22,
+        "resolution": 0.001
+      },
+      "em": 565.5195856911,
+      "parts": [
+        {
+          "unsaturation": 2.5,
+          "em": 565.5195856911,
+          "mf": "C36H69O4",
+          "mw": 565.932024,
+          "ea": [
+            {
+              "number": 36,
+              "percentage": 76.402549,
+              "element": "C"
+            },
+            {
+              "number": 69,
+              "percentage": 12.289093,
+              "element": "H"
+            },
+            {
+              "number": 4,
+              "percentage": 11.308358,
+              "element": "O"
+            }
+          ],
+          "msem": 565.5195856911
+        }
+      ],
+      "mf": "C36H69O4",
+      "mw": 565.932024,
+      "jcamp": "##TITLE= C36H69O4 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 24\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=2.5\r\n##$Molecular weight=565.932024\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=565.5195856911\r\n##PEAK TABLE= (XY..XY)\r\n563.52, 0\r\n565.52, 100\r\n566.523, 38.93662\r\n566.524, 0.15237\r\n566.526, 0.79359\r\n567.524, 0.822\r\n567.526, 7.36974\r\n567.527, 0.05933\r\n567.529, 0.309\r\n567.53, 0.00121\r\n567.532, 0.0031\r\n568.527, 0.32006\r\n568.53, 0.90989\r\n568.531, 0.01123\r\n568.533, 0.05849\r\n568.535, 0.00121\r\n569.528, 0.00253\r\n569.531, 0.06058\r\n569.533, 0.08315\r\n569.534, 0.00138\r\n569.536, 0.00717\r\n570.534, 0.00743\r\n570.536, 0.00558\r\n572.536, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Oleic acid [2M+H]+",
+        "molecular_formula": "C36H69O4",
+        "download_timestamp": "2025-08-20 14:58:45",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "585.502, 0\r\n587.502, 100\r\n588.505, 38.93662\r\n588.506, 0.15237\r\n588.508, 0.78209\r\n589.506, 0.822\r\n589.508, 7.36974\r\n589.509, 0.05933\r\n589.511, 0.30452\r\n589.512, 0.00119\r\n589.514, 0.00301\r\n590.509, 0.32006\r\n590.512, 0.92103\r\n590.515, 0.05764\r\n590.517, 0.00117\r\n591.51, 0.00253\r\n591.512, 0.06058\r\n591.515, 0.08311\r\n591.516, 0.00138\r\n591.518, 0.00707\r\n592.516, 0.00743\r\n592.518, 0.00558\r\n594.518, 0\r\n",
+      "nominalMass": 587,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C36H68O4Na",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 21,
+        "resolution": 0.001
+      },
+      "em": 587.50152994,
+      "parts": [
+        {
+          "unsaturation": 2.5,
+          "em": 587.50152994,
+          "mf": "C36H68NaO4",
+          "mw": 587.913853,
+          "ea": [
+            {
+              "number": 36,
+              "percentage": 73.545893,
+              "element": "C"
+            },
+            {
+              "number": 68,
+              "percentage": 11.658166,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 3.910398,
+              "element": "Na"
+            },
+            {
+              "number": 4,
+              "percentage": 10.885544,
+              "element": "O"
+            }
+          ],
+          "msem": 587.50152994
+        }
+      ],
+      "mf": "C36H68NaO4",
+      "mw": 587.913853,
+      "jcamp": "##TITLE= C36H68NaO4 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 23\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=2.5\r\n##$Molecular weight=587.913853\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=587.50152994\r\n##PEAK TABLE= (XY..XY)\r\n585.502, 0\r\n587.502, 100\r\n588.505, 38.93662\r\n588.506, 0.15237\r\n588.508, 0.78209\r\n589.506, 0.822\r\n589.508, 7.36974\r\n589.509, 0.05933\r\n589.511, 0.30452\r\n589.512, 0.00119\r\n589.514, 0.00301\r\n590.509, 0.32006\r\n590.512, 0.92103\r\n590.515, 0.05764\r\n590.517, 0.00117\r\n591.51, 0.00253\r\n591.512, 0.06058\r\n591.515, 0.08311\r\n591.516, 0.00138\r\n591.518, 0.00707\r\n592.516, 0.00743\r\n592.518, 0.00558\r\n594.518, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Oleic acid [2M+Na]+",
+        "molecular_formula": "C36H68O4Na",
+        "download_timestamp": "2025-08-20 14:58:47",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "298.29, 0\r\n300.29, 100\r\n301.287, 0.36533\r\n301.294, 19.5445\r\n301.297, 0.43705\r\n302.291, 0.07112\r\n302.294, 0.0016\r\n302.295, 0.411\r\n302.297, 1.78979\r\n302.298, 0.01483\r\n302.3, 0.08509\r\n303.292, 0.0015\r\n303.294, 0.00654\r\n303.298, 0.08001\r\n303.3, 0.10324\r\n303.301, 0.00316\r\n303.303, 0.00782\r\n304.301, 0.00736\r\n304.304, 0.00419\r\n306.304, 0\r\n",
+      "nominalMass": 300,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C18H38NO2",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 18,
+        "resolution": 0.001
+      },
+      "em": 300.2902544627,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 300.2902544627,
+          "mf": "C18H38NO2",
+          "mw": 300.500508,
+          "ea": [
+            {
+              "number": 18,
+              "percentage": 71.944386,
+              "element": "C"
+            },
+            {
+              "number": 38,
+              "percentage": 12.745985,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 4.661125,
+              "element": "N"
+            },
+            {
+              "number": 2,
+              "percentage": 10.648504,
+              "element": "O"
+            }
+          ],
+          "msem": 300.2902544627
+        }
+      ],
+      "mf": "C18H38NO2",
+      "mw": 300.500508,
+      "jcamp": "##TITLE= C18H38NO2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 20\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=300.500508\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=300.2902544627\r\n##PEAK TABLE= (XY..XY)\r\n298.29, 0\r\n300.29, 100\r\n301.287, 0.36533\r\n301.294, 19.5445\r\n301.297, 0.43705\r\n302.291, 0.07112\r\n302.294, 0.0016\r\n302.295, 0.411\r\n302.297, 1.78979\r\n302.298, 0.01483\r\n302.3, 0.08509\r\n303.292, 0.0015\r\n303.294, 0.00654\r\n303.298, 0.08001\r\n303.3, 0.10324\r\n303.301, 0.00316\r\n303.303, 0.00782\r\n304.301, 0.00736\r\n304.304, 0.00419\r\n306.304, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Oleic acid [M+NH4]+",
+        "molecular_formula": "C18H38NO2",
+        "download_timestamp": "2025-08-20 14:58:48",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "83.027, 0\r\n85.027, 100\r\n86.03, 2.16315\r\n86.031, 0.07619\r\n86.033, 0.06901\r\n87.031, 0.411\r\n87.033, 0.0117\r\n87.034, 0.00165\r\n87.036, 0.00149\r\n88.034, 0.00889\r\n90.034, 0\r\n",
+      "nominalMass": 85,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C2H6O2Na",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 9,
+        "resolution": 0.001
+      },
+      "em": 85.0265487125,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 85.0265487125,
+          "mf": "C2H6NaO2",
+          "mw": 85.057695,
+          "ea": [
+            {
+              "number": 2,
+              "percentage": 28.241386,
+              "element": "C"
+            },
+            {
+              "number": 6,
+              "percentage": 7.11005,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 27.028441,
+              "element": "Na"
+            },
+            {
+              "number": 2,
+              "percentage": 37.620123,
+              "element": "O"
+            }
+          ],
+          "msem": 85.0265487125
+        }
+      ],
+      "mf": "C2H6NaO2",
+      "mw": 85.057695,
+      "jcamp": "##TITLE= C2H6NaO2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 11\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=85.057695\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=85.0265487125\r\n##PEAK TABLE= (XY..XY)\r\n83.027, 0\r\n85.027, 100\r\n86.03, 2.16315\r\n86.031, 0.07619\r\n86.033, 0.06901\r\n87.031, 0.411\r\n87.033, 0.0117\r\n87.034, 0.00165\r\n87.036, 0.00149\r\n88.034, 0.00889\r\n90.034, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Ethylene glycol [M+Na]+",
+        "molecular_formula": "C2H6O2Na",
+        "download_timestamp": "2025-08-20 14:58:50",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "123.081, 0\r\n125.081, 100\r\n126.085, 4.32629\r\n126.086, 0.15237\r\n126.088, 0.14952\r\n127.086, 0.822\r\n127.088, 0.07019\r\n127.089, 0.00659\r\n127.091, 0.00647\r\n128.089, 0.03556\r\n128.092, 0.00123\r\n129.09, 0.00253\r\n131.09, 0\r\n",
+      "nominalMass": 125,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C4H13O4",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 11,
+        "resolution": 0.001
+      },
+      "em": 125.0813838952,
+      "parts": [
+        {
+          "unsaturation": -1.5,
+          "em": 125.0813838952,
+          "mf": "C4H13O4",
+          "mw": 125.143793,
+          "ea": [
+            {
+              "number": 4,
+              "percentage": 38.390193,
+              "element": "C"
+            },
+            {
+              "number": 13,
+              "percentage": 10.470539,
+              "element": "H"
+            },
+            {
+              "number": 4,
+              "percentage": 51.139268,
+              "element": "O"
+            }
+          ],
+          "msem": 125.0813838952
+        }
+      ],
+      "mf": "C4H13O4",
+      "mw": 125.143793,
+      "jcamp": "##TITLE= C4H13O4 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 13\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-1.5\r\n##$Molecular weight=125.143793\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=125.0813838952\r\n##PEAK TABLE= (XY..XY)\r\n123.081, 0\r\n125.081, 100\r\n126.085, 4.32629\r\n126.086, 0.15237\r\n126.088, 0.14952\r\n127.086, 0.822\r\n127.088, 0.07019\r\n127.089, 0.00659\r\n127.091, 0.00647\r\n128.089, 0.03556\r\n128.092, 0.00123\r\n129.09, 0.00253\r\n131.09, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Ethylene glycol [2M+H]+",
+        "molecular_formula": "C4H13O4",
+        "download_timestamp": "2025-08-20 14:58:51",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "145.063, 0\r\n147.063, 100\r\n148.067, 4.32629\r\n148.068, 0.15237\r\n148.07, 0.13802\r\n149.068, 0.822\r\n149.07, 0.07019\r\n149.071, 0.00659\r\n149.073, 0.00597\r\n150.071, 0.03556\r\n150.074, 0.00113\r\n151.072, 0.00253\r\n153.072, 0\r\n",
+      "nominalMass": 147,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C4H12O4Na",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 11,
+        "resolution": 0.001
+      },
+      "em": 147.063328144,
+      "parts": [
+        {
+          "unsaturation": -1.5,
+          "em": 147.063328144,
+          "mf": "C4H12NaO4",
+          "mw": 147.125622,
+          "ea": [
+            {
+              "number": 4,
+              "percentage": 32.654369,
+              "element": "C"
+            },
+            {
+              "number": 12,
+              "percentage": 8.221062,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 15.625945,
+              "element": "Na"
+            },
+            {
+              "number": 4,
+              "percentage": 43.498623,
+              "element": "O"
+            }
+          ],
+          "msem": 147.063328144
+        }
+      ],
+      "mf": "C4H12NaO4",
+      "mw": 147.125622,
+      "jcamp": "##TITLE= C4H12NaO4 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 13\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-1.5\r\n##$Molecular weight=147.125622\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=147.063328144\r\n##PEAK TABLE= (XY..XY)\r\n145.063, 0\r\n147.063, 100\r\n148.067, 4.32629\r\n148.068, 0.15237\r\n148.07, 0.13802\r\n149.068, 0.822\r\n149.07, 0.07019\r\n149.071, 0.00659\r\n149.073, 0.00597\r\n150.071, 0.03556\r\n150.074, 0.00113\r\n151.072, 0.00253\r\n153.072, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Ethylene glycol [2M+Na]+",
+        "molecular_formula": "C4H12O4Na",
+        "download_timestamp": "2025-08-20 14:58:53",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "78.071, 0\r\n80.071, 100\r\n81.068, 0.36533\r\n81.075, 2.23933\r\n81.077, 0.11501\r\n82.072, 0.0079\r\n82.075, 0.411\r\n82.078, 0.0117\r\n82.079, 0.00165\r\n82.081, 0.00249\r\n83.072, 0.0015\r\n83.079, 0.00889\r\n85.079, 0\r\n",
+      "nominalMass": 80,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C2H10NO2",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 11,
+        "resolution": 0.001
+      },
+      "em": 80.0711535647,
+      "parts": [
+        {
+          "unsaturation": -1.5,
+          "em": 80.0711535647,
+          "mf": "C2H10NO2",
+          "mw": 80.106392,
+          "ea": [
+            {
+              "number": 2,
+              "percentage": 29.98696,
+              "element": "C"
+            },
+            {
+              "number": 10,
+              "percentage": 12.582526,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 17.485126,
+              "element": "N"
+            },
+            {
+              "number": 2,
+              "percentage": 39.945389,
+              "element": "O"
+            }
+          ],
+          "msem": 80.0711535647
+        }
+      ],
+      "mf": "C2H10NO2",
+      "mw": 80.106392,
+      "jcamp": "##TITLE= C2H10NO2 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 13\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-1.5\r\n##$Molecular weight=80.106392\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=80.0711535647\r\n##PEAK TABLE= (XY..XY)\r\n78.071, 0\r\n80.071, 100\r\n81.068, 0.36533\r\n81.075, 2.23933\r\n81.077, 0.11501\r\n82.072, 0.0079\r\n82.075, 0.411\r\n82.078, 0.0117\r\n82.079, 0.00165\r\n82.081, 0.00249\r\n83.072, 0.0015\r\n83.079, 0.00889\r\n85.079, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Ethylene glycol [M+NH4]+",
+        "molecular_formula": "C2H10NO2",
+        "download_timestamp": "2025-08-20 14:58:54",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "407.358, 0\r\n409.358, 100\r\n410.361, 25.95775\r\n410.362, 0.03809\r\n410.364, 0.58657\r\n411.362, 0.2055\r\n411.364, 3.22865\r\n411.365, 0.00989\r\n411.367, 0.15226\r\n411.37, 0.00169\r\n412.365, 0.05334\r\n412.368, 0.25852\r\n412.371, 0.01894\r\n413.368, 0.00663\r\n413.371, 0.01454\r\n413.374, 0.0015\r\n415.374, 0\r\n",
+      "nominalMass": 409,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C24H51OPNa",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 15,
+        "resolution": 0.001
+      },
+      "em": 409.3575221681,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 409.3575221681,
+          "mf": "C24H51NaOP",
+          "mw": 409.625576,
+          "ea": [
+            {
+              "number": 24,
+              "percentage": 70.371012,
+              "element": "C"
+            },
+            {
+              "number": 51,
+              "percentage": 12.54926,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 5.612386,
+              "element": "Na"
+            },
+            {
+              "number": 1,
+              "percentage": 3.905861,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 7.561481,
+              "element": "P"
+            }
+          ],
+          "msem": 409.3575221681
+        }
+      ],
+      "mf": "C24H51NaOP",
+      "mw": 409.625576,
+      "jcamp": "##TITLE= C24H51NaOP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 17\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=409.625576\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=409.3575221681\r\n##PEAK TABLE= (XY..XY)\r\n407.358, 0\r\n409.358, 100\r\n410.361, 25.95775\r\n410.362, 0.03809\r\n410.364, 0.58657\r\n411.362, 0.2055\r\n411.364, 3.22865\r\n411.365, 0.00989\r\n411.367, 0.15226\r\n411.37, 0.00169\r\n412.365, 0.05334\r\n412.368, 0.25852\r\n412.371, 0.01894\r\n413.368, 0.00663\r\n413.371, 0.01454\r\n413.374, 0.0015\r\n415.374, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "TOPO [M+Na]+",
+        "molecular_formula": "C24H51OPNa",
+        "download_timestamp": "2025-08-20 14:58:56",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "402.402, 0\r\n404.402, 100\r\n405.399, 0.36533\r\n405.405, 25.95775\r\n405.406, 0.03809\r\n405.408, 0.63257\r\n406.403, 0.09483\r\n406.405, 0.00231\r\n406.406, 0.2055\r\n406.409, 3.22865\r\n406.41, 0.00989\r\n406.412, 0.1642\r\n406.415, 0.00196\r\n407.406, 0.0118\r\n407.41, 0.05334\r\n407.412, 0.25608\r\n407.413, 0.00253\r\n407.415, 0.02042\r\n408.413, 0.00663\r\n408.416, 0.01454\r\n408.418, 0.00162\r\n410.418, 0\r\n",
+      "nominalMass": 404,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C24H55NOP",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 20,
+        "resolution": 0.001
+      },
+      "em": 404.4021270203,
+      "parts": [
+        {
+          "unsaturation": -1.5,
+          "em": 404.4021270203,
+          "mf": "C24H55NOP",
+          "mw": 404.674273,
+          "ea": [
+            {
+              "number": 24,
+              "percentage": 71.232021,
+              "element": "C"
+            },
+            {
+              "number": 55,
+              "percentage": 13.699102,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 3.461229,
+              "element": "N"
+            },
+            {
+              "number": 1,
+              "percentage": 3.95365,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 7.653998,
+              "element": "P"
+            }
+          ],
+          "msem": 404.4021270203
+        }
+      ],
+      "mf": "C24H55NOP",
+      "mw": 404.674273,
+      "jcamp": "##TITLE= C24H55NOP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 22\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-1.5\r\n##$Molecular weight=404.674273\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=404.4021270203\r\n##PEAK TABLE= (XY..XY)\r\n402.402, 0\r\n404.402, 100\r\n405.399, 0.36533\r\n405.405, 25.95775\r\n405.406, 0.03809\r\n405.408, 0.63257\r\n406.403, 0.09483\r\n406.405, 0.00231\r\n406.406, 0.2055\r\n406.409, 3.22865\r\n406.41, 0.00989\r\n406.412, 0.1642\r\n406.415, 0.00196\r\n407.406, 0.0118\r\n407.41, 0.05334\r\n407.412, 0.25608\r\n407.413, 0.00253\r\n407.415, 0.02042\r\n408.413, 0.00663\r\n408.416, 0.01454\r\n408.418, 0.00162\r\n410.418, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "TOPO [M+NH4]+",
+        "molecular_formula": "C24H55NOP",
+        "download_timestamp": "2025-08-20 14:58:57",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "207.05, 0\r\n209.05, 100\r\n210.053, 12.97887\r\n210.056, 0.12651\r\n211.056, 0.77207\r\n211.059, 0.01642\r\n212.06, 0.02783\r\n214.06, 0\r\n",
+      "nominalMass": 209,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C12H11PNa",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 209.0496062657,
+      "parts": [
+        {
+          "unsaturation": 7.5,
+          "em": 209.0496062657,
+          "mf": "C12H11NaP",
+          "mw": 209.17971,
+          "ea": [
+            {
+              "number": 12,
+              "percentage": 68.901917,
+              "element": "C"
+            },
+            {
+              "number": 11,
+              "percentage": 5.300394,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 10.990439,
+              "element": "Na"
+            },
+            {
+              "number": 1,
+              "percentage": 14.80725,
+              "element": "P"
+            }
+          ],
+          "msem": 209.0496062657
+        }
+      ],
+      "mf": "C12H11NaP",
+      "mw": 209.17971,
+      "jcamp": "##TITLE= C12H11NaP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=7.5\r\n##$Molecular weight=209.17971\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=209.0496062657\r\n##PEAK TABLE= (XY..XY)\r\n207.05, 0\r\n209.05, 100\r\n210.053, 12.97887\r\n210.056, 0.12651\r\n211.056, 0.77207\r\n211.059, 0.01642\r\n212.06, 0.02783\r\n214.06, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "DPP [M+Na]+",
+        "molecular_formula": "C12H11PNa",
+        "download_timestamp": "2025-08-20 14:58:59",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "202.094, 0\r\n204.094, 100\r\n205.091, 0.36533\r\n205.098, 12.97887\r\n205.1, 0.17252\r\n206.095, 0.04742\r\n206.101, 0.77207\r\n206.104, 0.02239\r\n207.098, 0.00282\r\n207.104, 0.02783\r\n207.107, 0.00133\r\n209.107, 0\r\n",
+      "nominalMass": 204,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C12H15NP",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 10,
+        "resolution": 0.001
+      },
+      "em": 204.0942111179,
+      "parts": [
+        {
+          "unsaturation": 6.5,
+          "em": 204.0942111179,
+          "mf": "C12H15NP",
+          "mw": 204.228407,
+          "ea": [
+            {
+              "number": 12,
+              "percentage": 70.572372,
+              "element": "C"
+            },
+            {
+              "number": 15,
+              "percentage": 7.40304,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 6.858352,
+              "element": "N"
+            },
+            {
+              "number": 1,
+              "percentage": 15.166236,
+              "element": "P"
+            }
+          ],
+          "msem": 204.0942111179
+        }
+      ],
+      "mf": "C12H15NP",
+      "mw": 204.228407,
+      "jcamp": "##TITLE= C12H15NP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 12\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=6.5\r\n##$Molecular weight=204.228407\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=204.0942111179\r\n##PEAK TABLE= (XY..XY)\r\n202.094, 0\r\n204.094, 100\r\n205.091, 0.36533\r\n205.098, 12.97887\r\n205.1, 0.17252\r\n206.095, 0.04742\r\n206.101, 0.77207\r\n206.104, 0.02239\r\n207.098, 0.00282\r\n207.104, 0.02783\r\n207.107, 0.00133\r\n209.107, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "DPP [M+NH4]+",
+        "molecular_formula": "C12H15NP",
+        "download_timestamp": "2025-08-20 14:59:00",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "223.045, 0\r\n225.045, 100\r\n226.048, 12.97887\r\n226.049, 0.03809\r\n226.051, 0.12651\r\n227.049, 0.2055\r\n227.051, 0.77207\r\n227.052, 0.00494\r\n227.054, 0.01642\r\n228.052, 0.02667\r\n228.055, 0.02783\r\n229.055, 0.00159\r\n231.055, 0\r\n",
+      "nominalMass": 225,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C12H11OPNa",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 11,
+        "resolution": 0.001
+      },
+      "em": 225.0445208853,
+      "parts": [
+        {
+          "unsaturation": 7.5,
+          "em": 225.0445208853,
+          "mf": "C12H11NaOP",
+          "mw": 225.179115,
+          "ea": [
+            {
+              "number": 12,
+              "percentage": 64.006305,
+              "element": "C"
+            },
+            {
+              "number": 11,
+              "percentage": 4.923791,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 10.209548,
+              "element": "Na"
+            },
+            {
+              "number": 1,
+              "percentage": 7.10519,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 13.755166,
+              "element": "P"
+            }
+          ],
+          "msem": 225.0445208853
+        }
+      ],
+      "mf": "C12H11NaOP",
+      "mw": 225.179115,
+      "jcamp": "##TITLE= C12H11NaOP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 13\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=7.5\r\n##$Molecular weight=225.179115\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=225.0445208853\r\n##PEAK TABLE= (XY..XY)\r\n223.045, 0\r\n225.045, 100\r\n226.048, 12.97887\r\n226.049, 0.03809\r\n226.051, 0.12651\r\n227.049, 0.2055\r\n227.051, 0.77207\r\n227.052, 0.00494\r\n227.054, 0.01642\r\n228.052, 0.02667\r\n228.055, 0.02783\r\n229.055, 0.00159\r\n231.055, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "DPPO [M+Na]+",
+        "molecular_formula": "C12H11OPNa",
+        "download_timestamp": "2025-08-20 14:59:02",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "218.089, 0\r\n220.089, 100\r\n221.086, 0.36533\r\n221.092, 12.97887\r\n221.093, 0.03809\r\n221.095, 0.17252\r\n222.09, 0.04742\r\n222.093, 0.2055\r\n222.096, 0.77207\r\n222.097, 0.00494\r\n222.099, 0.02239\r\n223.093, 0.00282\r\n223.097, 0.02667\r\n223.099, 0.02783\r\n223.102, 0.00133\r\n224.1, 0.00159\r\n226.1, 0\r\n",
+      "nominalMass": 220,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C12H15NOP",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 15,
+        "resolution": 0.001
+      },
+      "em": 220.0891257375,
+      "parts": [
+        {
+          "unsaturation": 6.5,
+          "em": 220.0891257375,
+          "mf": "C12H15NOP",
+          "mw": 220.227812,
+          "ea": [
+            {
+              "number": 12,
+              "percentage": 65.445336,
+              "element": "C"
+            },
+            {
+              "number": 15,
+              "percentage": 6.865214,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 6.360097,
+              "element": "N"
+            },
+            {
+              "number": 1,
+              "percentage": 7.264934,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 14.064419,
+              "element": "P"
+            }
+          ],
+          "msem": 220.0891257375
+        }
+      ],
+      "mf": "C12H15NOP",
+      "mw": 220.227812,
+      "jcamp": "##TITLE= C12H15NOP - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 17\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=6.5\r\n##$Molecular weight=220.227812\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=220.0891257375\r\n##PEAK TABLE= (XY..XY)\r\n218.089, 0\r\n220.089, 100\r\n221.086, 0.36533\r\n221.092, 12.97887\r\n221.093, 0.03809\r\n221.095, 0.17252\r\n222.09, 0.04742\r\n222.093, 0.2055\r\n222.096, 0.77207\r\n222.097, 0.00494\r\n222.099, 0.02239\r\n223.093, 0.00282\r\n223.097, 0.02667\r\n223.099, 0.02783\r\n223.102, 0.00133\r\n224.1, 0.00159\r\n226.1, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "DPPO [M+NH4]+",
+        "molecular_formula": "C12H15NOP",
+        "download_timestamp": "2025-08-20 14:59:04",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "217.049, 0\r\n219.049, 100\r\n220.048, 5.86963\r\n220.052, 6.48944\r\n220.053, 0.11428\r\n220.055, 0.18402\r\n221.045, 4.47416\r\n221.046, 3.35274\r\n221.048, 0.04011\r\n221.051, 0.05124\r\n221.052, 0.33547\r\n221.053, 0.6165\r\n221.054, 0.00145\r\n221.055, 0.18482\r\n221.056, 0.00742\r\n221.058, 0.01194\r\n222.044, 0.22729\r\n222.045, 0.02647\r\n222.048, 0.29035\r\n222.049, 0.22269\r\n222.05, 0.00383\r\n222.051, 0.01084\r\n222.052, 0.01104\r\n222.053, 0.03132\r\n222.055, 0.0103\r\n222.056, 0.04001\r\n222.059, 0.00368\r\n223.041, 0.15001\r\n223.044, 0.01053\r\n223.047, 0.01475\r\n223.048, 0.00198\r\n223.049, 0.02758\r\n223.05, 0.02067\r\n223.051, 0.0079\r\n223.052, 0.00588\r\n223.056, 0.00203\r\n223.057, 0.00127\r\n223.06, 0.00108\r\n224.045, 0.00973\r\n224.048, 0.0014\r\n224.052, 0.00179\r\n224.053, 0.00134\r\n226.053, 0\r\n",
+      "nominalMass": 219,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H16O3SSiNa",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 41,
+        "resolution": 0.001
+      },
+      "em": 219.0487111868,
+      "parts": [
+        {
+          "em": 219.0487111868,
+          "mf": "C6H16NaO3SSi",
+          "mw": 219.329737,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 32.856655,
+              "element": "C"
+            },
+            {
+              "number": 16,
+              "percentage": 7.35288,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 10.48183,
+              "element": "Na"
+            },
+            {
+              "number": 3,
+              "percentage": 21.884043,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 14.619444,
+              "element": "S"
+            },
+            {
+              "number": 1,
+              "percentage": 12.805149,
+              "element": "Si"
+            }
+          ],
+          "msem": 219.0487111868
+        }
+      ],
+      "mf": "C6H16NaO3SSi",
+      "mw": 219.329737,
+      "jcamp": "##TITLE= C6H16NaO3SSi - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 43\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Molecular weight=219.329737\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=219.0487111868\r\n##PEAK TABLE= (XY..XY)\r\n217.049, 0\r\n219.049, 100\r\n220.048, 5.86963\r\n220.052, 6.48944\r\n220.053, 0.11428\r\n220.055, 0.18402\r\n221.045, 4.47416\r\n221.046, 3.35274\r\n221.048, 0.04011\r\n221.051, 0.05124\r\n221.052, 0.33547\r\n221.053, 0.6165\r\n221.054, 0.00145\r\n221.055, 0.18482\r\n221.056, 0.00742\r\n221.058, 0.01194\r\n222.044, 0.22729\r\n222.045, 0.02647\r\n222.048, 0.29035\r\n222.049, 0.22269\r\n222.05, 0.00383\r\n222.051, 0.01084\r\n222.052, 0.01104\r\n222.053, 0.03132\r\n222.055, 0.0103\r\n222.056, 0.04001\r\n222.059, 0.00368\r\n223.041, 0.15001\r\n223.044, 0.01053\r\n223.047, 0.01475\r\n223.048, 0.00198\r\n223.049, 0.02758\r\n223.05, 0.02067\r\n223.051, 0.0079\r\n223.052, 0.00588\r\n223.056, 0.00203\r\n223.057, 0.00127\r\n223.06, 0.00108\r\n224.045, 0.00973\r\n224.048, 0.0014\r\n224.052, 0.00179\r\n224.053, 0.00134\r\n226.053, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "3-MPTMS [M+Na]+",
+        "molecular_formula": "C6H16O3SSiNa",
+        "download_timestamp": "2025-08-20 14:59:05",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "213.101, 0\r\n215.101, 100\r\n216.098, 0.36533\r\n216.101, 5.86963\r\n216.104, 6.48944\r\n216.105, 0.11428\r\n216.107, 0.24153\r\n217.097, 4.47416\r\n217.098, 3.37419\r\n217.1, 0.04011\r\n217.102, 0.02371\r\n217.104, 0.38091\r\n217.105, 0.6223\r\n217.107, 0.01418\r\n217.108, 0.17547\r\n217.109, 0.00742\r\n217.111, 0.01567\r\n218.094, 0.01635\r\n218.095, 0.01225\r\n218.097, 0.25376\r\n218.1, 0.29035\r\n218.101, 0.22389\r\n218.102, 0.00608\r\n218.103, 0.01341\r\n218.104, 0.0081\r\n218.105, 0.03619\r\n218.107, 0.0103\r\n218.109, 0.04001\r\n218.111, 0.00254\r\n218.112, 0.00149\r\n219.094, 0.15001\r\n219.096, 0.01053\r\n219.097, 0.00106\r\n219.1, 0.01475\r\n219.101, 0.02956\r\n219.102, 0.02067\r\n219.104, 0.00791\r\n219.105, 0.00588\r\n219.108, 0.00203\r\n219.11, 0.00127\r\n219.112, 0.00108\r\n220.097, 0.00973\r\n220.101, 0.0014\r\n220.105, 0.00179\r\n220.106, 0.00134\r\n222.106, 0\r\n",
+      "nominalMass": 215,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H21NO3SSi",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 44,
+        "resolution": 0.001
+      },
+      "em": 215.1011410711,
+      "parts": [
+        {
+          "em": 215.1011410711,
+          "mf": "C6H21NO3SSi",
+          "mw": 215.386375,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 33.458205,
+              "element": "C"
+            },
+            {
+              "number": 21,
+              "percentage": 9.827342,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 6.503059,
+              "element": "N"
+            },
+            {
+              "number": 3,
+              "percentage": 22.284703,
+              "element": "O"
+            },
+            {
+              "number": 1,
+              "percentage": 14.887101,
+              "element": "S"
+            },
+            {
+              "number": 1,
+              "percentage": 13.039589,
+              "element": "Si"
+            }
+          ],
+          "msem": 215.1011410711
+        }
+      ],
+      "mf": "C6H21NO3SSi",
+      "mw": 215.386375,
+      "jcamp": "##TITLE= C6H21NO3SSi - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 46\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Molecular weight=215.386375\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=215.1011410711\r\n##PEAK TABLE= (XY..XY)\r\n213.101, 0\r\n215.101, 100\r\n216.098, 0.36533\r\n216.101, 5.86963\r\n216.104, 6.48944\r\n216.105, 0.11428\r\n216.107, 0.24153\r\n217.097, 4.47416\r\n217.098, 3.37419\r\n217.1, 0.04011\r\n217.102, 0.02371\r\n217.104, 0.38091\r\n217.105, 0.6223\r\n217.107, 0.01418\r\n217.108, 0.17547\r\n217.109, 0.00742\r\n217.111, 0.01567\r\n218.094, 0.01635\r\n218.095, 0.01225\r\n218.097, 0.25376\r\n218.1, 0.29035\r\n218.101, 0.22389\r\n218.102, 0.00608\r\n218.103, 0.01341\r\n218.104, 0.0081\r\n218.105, 0.03619\r\n218.107, 0.0103\r\n218.109, 0.04001\r\n218.111, 0.00254\r\n218.112, 0.00149\r\n219.094, 0.15001\r\n219.096, 0.01053\r\n219.097, 0.00106\r\n219.1, 0.01475\r\n219.101, 0.02956\r\n219.102, 0.02067\r\n219.104, 0.00791\r\n219.105, 0.00588\r\n219.108, 0.00203\r\n219.11, 0.00127\r\n219.112, 0.00108\r\n220.097, 0.00973\r\n220.101, 0.0014\r\n220.105, 0.00179\r\n220.106, 0.00134\r\n222.106, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "3-MPTMS [M+NH4]+",
+        "molecular_formula": "C6H21NO3SSi",
+        "download_timestamp": "2025-08-20 14:59:07",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "89.055, 0\r\n91.055, 100\r\n92.058, 7.57101\r\n92.061, 0.08051\r\n93.061, 0.24566\r\n93.064, 0.0061\r\n94.065, 0.00443\r\n96.065, 0\r\n",
+      "nominalMass": 91,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C7H7",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 91.0547752245,
+      "parts": [
+        {
+          "unsaturation": 4.5,
+          "em": 91.0547752245,
+          "mf": "C7H7",
+          "mw": 91.130737,
+          "ea": [
+            {
+              "number": 7,
+              "percentage": 92.257732,
+              "element": "C"
+            },
+            {
+              "number": 7,
+              "percentage": 7.742267,
+              "element": "H"
+            }
+          ],
+          "msem": 91.0547752245
+        }
+      ],
+      "mf": "C7H7",
+      "mw": 91.130737,
+      "jcamp": "##TITLE= C7H7 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=4.5\r\n##$Molecular weight=91.130737\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=91.0547752245\r\n##PEAK TABLE= (XY..XY)\r\n89.055, 0\r\n91.055, 100\r\n92.058, 7.57101\r\n92.061, 0.08051\r\n93.061, 0.24566\r\n93.064, 0.0061\r\n94.065, 0.00443\r\n96.065, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Tropylium (from toluene)",
+        "molecular_formula": "C7H7",
+        "download_timestamp": "2025-08-20 14:59:08",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "75.039, 0\r\n77.039, 100\r\n78.042, 6.48944\r\n78.045, 0.05751\r\n79.046, 0.17547\r\n79.049, 0.00373\r\n80.049, 0.00253\r\n82.049, 0\r\n",
+      "nominalMass": 77,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H5",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 77.0391251604,
+      "parts": [
+        {
+          "unsaturation": 4.5,
+          "em": 77.0391251604,
+          "mf": "C6H5",
+          "mw": 77.104119,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 93.463769,
+              "element": "C"
+            },
+            {
+              "number": 5,
+              "percentage": 6.536232,
+              "element": "H"
+            }
+          ],
+          "msem": 77.0391251604
+        }
+      ],
+      "mf": "C6H5",
+      "mw": 77.104119,
+      "jcamp": "##TITLE= C6H5 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=4.5\r\n##$Molecular weight=77.104119\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=77.0391251604\r\n##PEAK TABLE= (XY..XY)\r\n75.039, 0\r\n77.039, 100\r\n78.042, 6.48944\r\n78.045, 0.05751\r\n79.046, 0.17547\r\n79.049, 0.00373\r\n80.049, 0.00253\r\n82.049, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Phenyl (from aromatics, DPP)",
+        "molecular_formula": "C6H5",
+        "download_timestamp": "2025-08-20 14:59:10",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "111.133, 0\r\n113.133, 100\r\n114.136, 8.65258\r\n114.139, 0.19552\r\n115.14, 0.32754\r\n115.143, 0.01692\r\n116.143, 0.00709\r\n118.143, 0\r\n",
+      "nominalMass": 113,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C8H17",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 113.1330255452,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 113.1330255452,
+          "mf": "C8H17",
+          "mw": 113.22088,
+          "ea": [
+            {
+              "number": 8,
+              "percentage": 84.865872,
+              "element": "C"
+            },
+            {
+              "number": 17,
+              "percentage": 15.134128,
+              "element": "H"
+            }
+          ],
+          "msem": 113.1330255452
+        }
+      ],
+      "mf": "C8H17",
+      "mw": 113.22088,
+      "jcamp": "##TITLE= C8H17 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=113.22088\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=113.1330255452\r\n##PEAK TABLE= (XY..XY)\r\n111.133, 0\r\n113.133, 100\r\n114.136, 8.65258\r\n114.139, 0.19552\r\n115.14, 0.32754\r\n115.143, 0.01692\r\n116.143, 0.00709\r\n118.143, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Octyl cation (from TOP/TOPSe/TBA)",
+        "molecular_formula": "C8H17",
+        "download_timestamp": "2025-08-20 14:59:11",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "55.07, 0\r\n57.07, 100\r\n58.074, 4.32629\r\n58.077, 0.10351\r\n59.077, 0.07019\r\n59.08, 0.00448\r\n61.08, 0\r\n",
+      "nominalMass": 57,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C4H9",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 5,
+        "resolution": 0.001
+      },
+      "em": 57.0704252886,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 57.0704252886,
+          "mf": "C4H9",
+          "mw": 57.11441,
+          "ea": [
+            {
+              "number": 4,
+              "percentage": 84.117027,
+              "element": "C"
+            },
+            {
+              "number": 9,
+              "percentage": 15.882974,
+              "element": "H"
+            }
+          ],
+          "msem": 57.0704252886
+        }
+      ],
+      "mf": "C4H9",
+      "mw": 57.11441,
+      "jcamp": "##TITLE= C4H9 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 7\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=57.11441\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=57.0704252886\r\n##PEAK TABLE= (XY..XY)\r\n55.07, 0\r\n57.07, 100\r\n58.074, 4.32629\r\n58.077, 0.10351\r\n59.077, 0.07019\r\n59.08, 0.00448\r\n61.08, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Butyl cation (from TBA)",
+        "molecular_formula": "C4H9",
+        "download_timestamp": "2025-08-20 14:59:13",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "251.29, 0\r\n253.29, 100\r\n254.293, 19.46831\r\n254.296, 0.42555\r\n255.296, 1.78979\r\n255.299, 0.08285\r\n256.3, 0.10324\r\n256.303, 0.00762\r\n257.303, 0.00419\r\n259.303, 0\r\n",
+      "nominalMass": 253,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C18H37",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 253.2895261866,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 253.2895261866,
+          "mf": "C18H37",
+          "mw": 253.487054,
+          "ea": [
+            {
+              "number": 18,
+              "percentage": 85.287687,
+              "element": "C"
+            },
+            {
+              "number": 37,
+              "percentage": 14.712313,
+              "element": "H"
+            }
+          ],
+          "msem": 253.2895261866
+        }
+      ],
+      "mf": "C18H37",
+      "mw": 253.487054,
+      "jcamp": "##TITLE= C18H37 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=253.487054\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=253.2895261866\r\n##PEAK TABLE= (XY..XY)\r\n251.29, 0\r\n253.29, 100\r\n254.293, 19.46831\r\n254.296, 0.42555\r\n255.296, 1.78979\r\n255.299, 0.08285\r\n256.3, 0.10324\r\n256.303, 0.00762\r\n257.303, 0.00419\r\n259.303, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Oleyl cation (from OA/ODE)",
+        "molecular_formula": "C18H37",
+        "download_timestamp": "2025-08-20 14:59:14",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "41.055, 0\r\n43.055, 100\r\n44.058, 3.24472\r\n44.061, 0.08051\r\n45.061, 0.03509\r\n45.064, 0.00261\r\n47.064, 0\r\n",
+      "nominalMass": 43,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C3H7",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 5,
+        "resolution": 0.001
+      },
+      "em": 43.0547752245,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 43.0547752245,
+          "mf": "C3H7",
+          "mw": 43.087793,
+          "ea": [
+            {
+              "number": 3,
+              "percentage": 83.625095,
+              "element": "C"
+            },
+            {
+              "number": 7,
+              "percentage": 16.374905,
+              "element": "H"
+            }
+          ],
+          "msem": 43.0547752245
+        }
+      ],
+      "mf": "C3H7",
+      "mw": 43.087793,
+      "jcamp": "##TITLE= C3H7 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 7\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=43.087793\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=43.0547752245\r\n##PEAK TABLE= (XY..XY)\r\n41.055, 0\r\n43.055, 100\r\n44.058, 3.24472\r\n44.061, 0.08051\r\n45.061, 0.03509\r\n45.064, 0.00261\r\n47.064, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Propyl fragment",
+        "molecular_formula": "C3H7",
+        "download_timestamp": "2025-08-20 14:59:16",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "69.086, 0\r\n71.086, 100\r\n72.089, 5.40786\r\n72.092, 0.12651\r\n73.093, 0.11698\r\n73.096, 0.00684\r\n74.096, 0.00127\r\n76.096, 0\r\n",
+      "nominalMass": 71,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C5H11",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 71.0860753528,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 71.0860753528,
+          "mf": "C5H11",
+          "mw": 71.141028,
+          "ea": [
+            {
+              "number": 5,
+              "percentage": 84.414973,
+              "element": "C"
+            },
+            {
+              "number": 11,
+              "percentage": 15.585027,
+              "element": "H"
+            }
+          ],
+          "msem": 71.0860753528
+        }
+      ],
+      "mf": "C5H11",
+      "mw": 71.141028,
+      "jcamp": "##TITLE= C5H11 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=71.141028\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=71.0860753528\r\n##PEAK TABLE= (XY..XY)\r\n69.086, 0\r\n71.086, 100\r\n72.089, 5.40786\r\n72.092, 0.12651\r\n73.093, 0.11698\r\n73.096, 0.00684\r\n74.096, 0.00127\r\n76.096, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Pentyl fragment",
+        "molecular_formula": "C5H11",
+        "download_timestamp": "2025-08-20 14:59:17",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "83.102, 0\r\n85.102, 100\r\n86.105, 6.48944\r\n86.108, 0.14952\r\n87.108, 0.17547\r\n87.111, 0.0097\r\n88.112, 0.00253\r\n90.112, 0\r\n",
+      "nominalMass": 85,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C6H13",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 85.1017254169,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 85.1017254169,
+          "mf": "C6H13",
+          "mw": 85.167645,
+          "ea": [
+            {
+              "number": 6,
+              "percentage": 84.61478,
+              "element": "C"
+            },
+            {
+              "number": 13,
+              "percentage": 15.38522,
+              "element": "H"
+            }
+          ],
+          "msem": 85.1017254169
+        }
+      ],
+      "mf": "C6H13",
+      "mw": 85.167645,
+      "jcamp": "##TITLE= C6H13 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=85.167645\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=85.1017254169\r\n##PEAK TABLE= (XY..XY)\r\n83.102, 0\r\n85.102, 100\r\n86.105, 6.48944\r\n86.108, 0.14952\r\n87.108, 0.17547\r\n87.111, 0.0097\r\n88.112, 0.00253\r\n90.112, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Hexyl fragment",
+        "molecular_formula": "C6H13",
+        "download_timestamp": "2025-08-20 14:59:19",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "97.117, 0\r\n99.117, 100\r\n100.121, 7.57101\r\n100.124, 0.17252\r\n101.124, 0.24566\r\n101.127, 0.01306\r\n102.127, 0.00443\r\n104.127, 0\r\n",
+      "nominalMass": 99,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C7H15",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 99.1173754811,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 99.1173754811,
+          "mf": "C7H15",
+          "mw": 99.194263,
+          "ea": [
+            {
+              "number": 7,
+              "percentage": 84.758078,
+              "element": "C"
+            },
+            {
+              "number": 15,
+              "percentage": 15.241921,
+              "element": "H"
+            }
+          ],
+          "msem": 99.1173754811
+        }
+      ],
+      "mf": "C7H15",
+      "mw": 99.194263,
+      "jcamp": "##TITLE= C7H15 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=99.194263\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=99.1173754811\r\n##PEAK TABLE= (XY..XY)\r\n97.117, 0\r\n99.117, 100\r\n100.121, 7.57101\r\n100.124, 0.17252\r\n101.124, 0.24566\r\n101.127, 0.01306\r\n102.127, 0.00443\r\n104.127, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Heptyl fragment",
+        "molecular_formula": "C7H15",
+        "download_timestamp": "2025-08-20 14:59:20",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "125.149, 0\r\n127.149, 100\r\n128.152, 9.73416\r\n128.155, 0.21853\r\n129.155, 0.42113\r\n129.158, 0.02127\r\n130.159, 0.01063\r\n132.159, 0\r\n",
+      "nominalMass": 127,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C9H19",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 127.1486756093,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 127.1486756093,
+          "mf": "C9H19",
+          "mw": 127.247497,
+          "ea": [
+            {
+              "number": 9,
+              "percentage": 84.949901,
+              "element": "C"
+            },
+            {
+              "number": 19,
+              "percentage": 15.050099,
+              "element": "H"
+            }
+          ],
+          "msem": 127.1486756093
+        }
+      ],
+      "mf": "C9H19",
+      "mw": 127.247497,
+      "jcamp": "##TITLE= C9H19 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=127.247497\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=127.1486756093\r\n##PEAK TABLE= (XY..XY)\r\n125.149, 0\r\n127.149, 100\r\n128.152, 9.73416\r\n128.155, 0.21853\r\n129.155, 0.42113\r\n129.158, 0.02127\r\n130.159, 0.01063\r\n132.159, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Nonyl fragment",
+        "molecular_formula": "C9H19",
+        "download_timestamp": "2025-08-20 14:59:22",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "153.18, 0\r\n155.18, 100\r\n156.183, 11.8973\r\n156.186, 0.26453\r\n157.187, 0.64339\r\n157.19, 0.03147\r\n158.19, 0.02088\r\n158.193, 0.0017\r\n160.193, 0\r\n",
+      "nominalMass": 155,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C11H23",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 7,
+        "resolution": 0.001
+      },
+      "em": 155.1799757376,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 155.1799757376,
+          "mf": "C11H23",
+          "mw": 155.300732,
+          "ea": [
+            {
+              "number": 11,
+              "percentage": 85.072422,
+              "element": "C"
+            },
+            {
+              "number": 23,
+              "percentage": 14.927578,
+              "element": "H"
+            }
+          ],
+          "msem": 155.1799757376
+        }
+      ],
+      "mf": "C11H23",
+      "mw": 155.300732,
+      "jcamp": "##TITLE= C11H23 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 9\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=155.300732\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=155.1799757376\r\n##PEAK TABLE= (XY..XY)\r\n153.18, 0\r\n155.18, 100\r\n156.183, 11.8973\r\n156.186, 0.26453\r\n157.187, 0.64339\r\n157.19, 0.03147\r\n158.19, 0.02088\r\n158.193, 0.0017\r\n160.193, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Undecyl fragment",
+        "molecular_formula": "C11H23",
+        "download_timestamp": "2025-08-20 14:59:23",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "167.196, 0\r\n169.196, 100\r\n170.199, 12.97887\r\n170.202, 0.28753\r\n171.202, 0.77207\r\n171.205, 0.03732\r\n172.206, 0.02783\r\n172.209, 0.00222\r\n174.209, 0\r\n",
+      "nominalMass": 169,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C12H25",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 7,
+        "resolution": 0.001
+      },
+      "em": 169.1956258018,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 169.1956258018,
+          "mf": "C12H25",
+          "mw": 169.32735,
+          "ea": [
+            {
+              "number": 12,
+              "percentage": 85.118459,
+              "element": "C"
+            },
+            {
+              "number": 25,
+              "percentage": 14.881541,
+              "element": "H"
+            }
+          ],
+          "msem": 169.1956258018
+        }
+      ],
+      "mf": "C12H25",
+      "mw": 169.32735,
+      "jcamp": "##TITLE= C12H25 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 9\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=169.32735\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=169.1956258018\r\n##PEAK TABLE= (XY..XY)\r\n167.196, 0\r\n169.196, 100\r\n170.199, 12.97887\r\n170.202, 0.28753\r\n171.202, 0.77207\r\n171.205, 0.03732\r\n172.206, 0.02783\r\n172.209, 0.00222\r\n174.209, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Dodecyl fragment",
+        "molecular_formula": "C12H25",
+        "download_timestamp": "2025-08-20 14:59:25",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "195.227, 0\r\n197.227, 100\r\n198.23, 15.14202\r\n198.233, 0.33354\r\n199.234, 1.06452\r\n199.237, 0.0505\r\n200.237, 0.04605\r\n200.24, 0.00355\r\n201.24, 0.00137\r\n203.24, 0\r\n",
+      "nominalMass": 197,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C14H29",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 197.2269259301,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 197.2269259301,
+          "mf": "C14H29",
+          "mw": 197.380584,
+          "ea": [
+            {
+              "number": 14,
+              "percentage": 85.190903,
+              "element": "C"
+            },
+            {
+              "number": 29,
+              "percentage": 14.809097,
+              "element": "H"
+            }
+          ],
+          "msem": 197.2269259301
+        }
+      ],
+      "mf": "C14H29",
+      "mw": 197.380584,
+      "jcamp": "##TITLE= C14H29 - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=197.380584\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=197.2269259301\r\n##PEAK TABLE= (XY..XY)\r\n195.227, 0\r\n197.227, 100\r\n198.23, 15.14202\r\n198.233, 0.33354\r\n199.234, 1.06452\r\n199.237, 0.0505\r\n200.237, 0.04605\r\n200.24, 0.00355\r\n201.24, 0.00137\r\n203.24, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Tetradecyl fragment",
+        "molecular_formula": "C14H29",
+        "download_timestamp": "2025-08-20 14:59:26",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "31.034, 0\r\n33.034, 100\r\n34.037, 1.08157\r\n34.038, 0.03809\r\n34.04, 0.05751\r\n35.038, 0.2055\r\n36.042, 0.00222\r\n38.042, 0\r\n",
+      "nominalMass": 33,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "CH5O",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 6,
+        "resolution": 0.001
+      },
+      "em": 33.0340397799,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 33.0340397799,
+          "mf": "CH5O",
+          "mw": 33.049845,
+          "ea": [
+            {
+              "number": 1,
+              "percentage": 36.341278,
+              "element": "C"
+            },
+            {
+              "number": 5,
+              "percentage": 15.248797,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 48.409924,
+              "element": "O"
+            }
+          ],
+          "msem": 33.0340397799
+        }
+      ],
+      "mf": "CH5O",
+      "mw": 33.049845,
+      "jcamp": "##TITLE= CH5O - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 8\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=33.049845\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=33.0340397799\r\n##PEAK TABLE= (XY..XY)\r\n31.034, 0\r\n33.034, 100\r\n34.037, 1.08157\r\n34.038, 0.03809\r\n34.04, 0.05751\r\n35.038, 0.2055\r\n36.042, 0.00222\r\n38.042, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Protonated methanol (from 3-MPTMS hydrolysis)",
+        "molecular_formula": "CH5O",
+        "download_timestamp": "2025-08-20 14:59:28",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "60.061, 0\r\n62.061, 100\r\n63.058, 0.36533\r\n63.064, 2.16315\r\n63.065, 0.03809\r\n63.067, 0.09201\r\n64.061, 0.0079\r\n64.065, 0.2055\r\n64.067, 0.0117\r\n64.07, 0.00199\r\n65.068, 0.00445\r\n67.068, 0\r\n",
+      "nominalMass": 62,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C2H8NO",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 10,
+        "resolution": 0.001
+      },
+      "em": 62.060588881,
+      "parts": [
+        {
+          "unsaturation": -0.5,
+          "em": 62.060588881,
+          "mf": "C2H8NO",
+          "mw": 62.091106,
+          "ea": [
+            {
+              "number": 2,
+              "percentage": 38.68746,
+              "element": "C"
+            },
+            {
+              "number": 8,
+              "percentage": 12.986604,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 22.558308,
+              "element": "N"
+            },
+            {
+              "number": 1,
+              "percentage": 25.767628,
+              "element": "O"
+            }
+          ],
+          "msem": 62.060588881
+        }
+      ],
+      "mf": "C2H8NO",
+      "mw": 62.091106,
+      "jcamp": "##TITLE= C2H8NO - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 12\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=-0.5\r\n##$Molecular weight=62.091106\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=62.060588881\r\n##PEAK TABLE= (XY..XY)\r\n60.061, 0\r\n62.061, 100\r\n63.058, 0.36533\r\n63.064, 2.16315\r\n63.065, 0.03809\r\n63.067, 0.09201\r\n64.061, 0.0079\r\n64.065, 0.2055\r\n64.067, 0.0117\r\n64.07, 0.00199\r\n65.068, 0.00445\r\n67.068, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Protonated ethanolamine fragment",
+        "molecular_formula": "C2H8NO",
+        "download_timestamp": "2025-08-20 14:59:30",
+        "source": "ChemCalc API"
+      }
+    },
+    {
+      "xy": "112.128, 0\r\n114.128, 100\r\n115.125, 0.36533\r\n115.132, 7.57101\r\n115.135, 0.18402\r\n116.129, 0.02766\r\n116.135, 0.24566\r\n116.138, 0.01393\r\n117.138, 0.00443\r\n119.138, 0\r\n",
+      "nominalMass": 114,
+      "options": {
+        "typedResult": false,
+        "referenceVersion": "2013",
+        "mf": "C7H16N",
+        "isotopomers": "jcamp,xy",
+        "threshold": 1e-05,
+        "numberLines": 8,
+        "resolution": 0.001
+      },
+      "em": 114.128274518,
+      "parts": [
+        {
+          "unsaturation": 0.5,
+          "em": 114.128274518,
+          "mf": "C7H16N",
+          "mw": 114.208907,
+          "ea": [
+            {
+              "number": 7,
+              "percentage": 73.615231,
+              "element": "C"
+            },
+            {
+              "number": 16,
+              "percentage": 14.120661,
+              "element": "H"
+            },
+            {
+              "number": 1,
+              "percentage": 12.264108,
+              "element": "N"
+            }
+          ],
+          "msem": 114.128274518
+        }
+      ],
+      "mf": "C7H16N",
+      "mw": 114.208907,
+      "jcamp": "##TITLE= C7H16N - resolution: 0.001\r\n##JCAMP-DX= 5.00\r\n##DATA TYPE= MASS SPECTRUM\r\n##DATA CLASS= PEAK TABLE\r\n##ORIGIN= Generated spectrum based on ChemCalc www.chemcalc.org\r\n##SPECTROMETER/DATA SYSTEM= Based on ChemCalc isotopic distribution calculator\r\n##XUNITS= M/Z\r\n##YUNITS= RELATIVE ABUNDANCE\r\n##NPOINTS= 10\r\n##MAXY= 100\r\n##MINY= 0\r\n##$Unsaturation=0.5\r\n##$Molecular weight=114.208907\r\n##$Resolution=0.001\r\n##$Threshold=1.0E-5\r\n##$Monoisotopic mass=114.128274518\r\n##PEAK TABLE= (XY..XY)\r\n112.128, 0\r\n114.128, 100\r\n115.125, 0.36533\r\n115.132, 7.57101\r\n115.135, 0.18402\r\n116.129, 0.02766\r\n116.135, 0.24566\r\n116.138, 0.01393\r\n117.138, 0.00443\r\n119.138, 0\r\n##END=\r\n",
+      "_metadata": {
+        "compound_name": "Protonated piperidinium-ethylene adduct (trace)",
+        "molecular_formula": "C7H16N",
+        "download_timestamp": "2025-08-20 14:59:31",
+        "source": "ChemCalc API"
+      }
+    }
+  ]
+}

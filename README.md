@@ -12,120 +12,114 @@ The repository contains tools for:
 - Compound identification and validation
 - Data visualization and plotting
 - Theoretical mass calculations and isotopic data
+- ChemCalc API integration for molecular formula analysis
+- Advanced compound analysis and validation
 
 ## Repository Contents
 
 ### Core VBScript Export Tools (Numbered for Easy Reference)
 
 #### Basic Data Export Scripts
-- **`01_Export_Chromatograms_Spectra_MassLists.vbs`** – Main export script that generates TSV files containing chromatograms, spectra, and formatted mass lists for all loaded analyses. Exports retention time vs intensity data and peak-picked mass lists with resolution, signal-to-noise, and FWHM data.
-- **`02_Export_Chromatograms_Spectra_MassLists_Copy.vbs`** – Duplicate of the main export script.
-- **`03_Export_Chromatograms_Spectra_MassLists_WithRawSpectra.vbs`** – Enhanced version that includes full raw spectrum export (all m/z-intensity pairs) in addition to peak-picked mass lists.
+1. **`01_Export_Chromatograms_Spectra_MassLists.vbs`** - Basic export of chromatograms, spectra, and mass lists to TSV format
+2. **`02_Export_Chromatograms_Spectra_MassLists_Copy.vbs`** - Copy of the basic export script for backup purposes
+3. **`03_Export_Chromatograms_Spectra_MassLists_WithRawSpectra.vbs`** - Enhanced export including raw spectrum data and additional metadata
 
-#### EIC (Extracted Ion Chromatogram) Export Scripts
-- **`04_Export_TIC_and_EICs_TSV.vbs`** – Exports TIC (Total Ion Chromatogram) plus multiple EICs to TSV format. User-configurable target m/z values with customizable tolerance windows and polarity settings.
-- **`05_Export_TIC_and_EICs_CSV_ParallelColumns.vbs`** – Generates parallel-column CSV output with retention time in the first column and each chromatogram (TIC + EICs) in subsequent columns for easy import into Excel/Origin.
-- **`06_Export_TIC_and_EICs_TSV_ParallelColumns.vbs`** – Same functionality as CSV version but outputs TSV format for Origin compatibility.
+#### EIC Export Scripts
+4. **`04_Export_TIC_and_EICs_TSV.vbs`** - Export Total Ion Chromatogram (TIC) and Extracted Ion Chromatograms (EICs) to TSV format
+5. **`05_Export_TIC_and_EICs_CSV_ParallelColumns.vbs`** - Export TIC and EICs to CSV format with parallel column layout
+6. **`06_Export_TIC_and_EICs_TSV_ParallelColumns.vbs`** - Export TIC and EICs to TSV format with parallel column layout
 
 #### Batch Processing Scripts
-- **`07_Batch_Export_MassLists_AllAnalyses.vbs`** – Memory-efficient batch processor that exports CSV mass lists for every scan in all open analyses. Creates timestamped folders and processes files sequentially to avoid memory issues.
-- **`08_Batch_Export_EICs_AllAnalyses.vbs`** – Batch exporter that generates one parallel-column EIC CSV file per open analysis. Configurable target m/z values and tolerance settings.
-- **`09_Export_MassLists_SingleAnalysis.vbs`** – Single-analysis script that creates a timestamped folder containing CSV mass lists for every scan in the current analysis.
+7. **`07_Batch_Export_MassLists_AllAnalyses.vbs`** - Batch export mass lists from all opened analyses
+8. **`08_Batch_Export_EICs_AllAnalyses.vbs`** - Batch export EICs from all opened analyses
+9. **`09_Export_MassLists_SingleAnalysis.vbs`** - Export mass lists from a single selected analysis
 
 #### Advanced EIC Export Scripts
-- **`10_Batch_Export_EICs_CompoundMapping.vbs`** – Intelligent batch EIC exporter that reads compound mapping from CSV files and automatically generates EICs for detected compounds. Includes sample token extraction and compound matching logic.
-- **`11_Batch_Export_EICs_TheoreticalMatches.vbs`** – Updated version for theoretical compound matches with increased tolerance (0.01 Da) and support for observed comparison data.
-- **`12_Batch_Export_EICs_TheoreticalMatches_Enhanced.vbs`** – Enhanced version that uses compound names + m/z as unique keys to avoid duplicates in theoretical match processing.
-- **`13_Batch_Export_EICs_SelectedCompounds.vbs`** – Selected version of the EIC batch export script with compound mapping from specific CSV files.
+10. **`10_Batch_Export_EICs_CompoundMapping.vbs`** - Advanced EIC export with compound mapping and identification
+11. **`11_Batch_Export_EICs_TheoreticalMatches.vbs`** - EIC export with theoretical mass-to-charge ratio matching
+12. **`12_Batch_Export_EICs_TheoreticalMatches_Enhanced.vbs`** - Enhanced version with improved theoretical matching algorithms
+13. **`13_Batch_Export_EICs_SelectedCompounds.vbs`** - Selective EIC export for specific compounds of interest
 
-### Data Files and Analysis Results
+### Data Files
 
 #### Reference Data
-- **`NIST_Atomic_Isotopic_Database.csv`** – Comprehensive database of atomic and isotopic data including element symbols, isotope masses, abundances, and valencies. Based on NIST standards for molecular formula calculations and isotopic pattern simulations.
-- **`NIST_Atomic_Isotopic_Data_Documentation.txt`** – Detailed documentation of the isotopic data sources, including NIST references and version information.
+- **`NIST_Atomic_Isotopic_Database.csv`** - Comprehensive database of atomic masses and isotopic abundances from NIST
+- **`NIST_Atomic_Isotopic_Data_Documentation.txt`** - Documentation and reference information for the atomic isotopic database
 
-#### Theoretical Mass Calculations
-- **`Theoretical_MZ_Calculations_Final.csv`** – Final theoretical m/z values for compounds including protonated, deprotonated, and isotopic variants. Contains molecular formulas, mass types, and calculation sources.
-- **`Theoretical_MZ_PositiveMode_Cleaned.csv`** – Cleaned theoretical m/z data for positive mode analysis.
-- **`Theoretical_MZ_PositiveMode_Cleaned_NoMZ.csv`** – Theoretical compound data without m/z values.
+#### Theoretical Calculations
+- **`Theoretical_MZ_Calculations_Final.csv`** - Final theoretical mass-to-charge ratio calculations for compounds
+- **`Theoretical_MZ_PositiveMode_Cleaned.csv`** - Cleaned theoretical m/z data for positive mode analysis
+- **`Theoretical_MZ_PositiveMode_Cleaned_NoMZ.csv`** - Theoretical calculations without m/z values for processing
 
-#### Fragment Ion Data
-- **`Fragment_Ions_PositiveMode_Comprehensive.csv`** – Comprehensive fragment ion data for positive mode analysis.
-- **`Fragment_Ions_PositiveMode_250803_v1.csv`** – Fragment ion data for positive mode analysis from August 25, 2023.
-- **`Fragment_Ions_PositiveMode_250803_v1_CorrectedMZ.csv`** – Fragment ion data with corrected m/z values.
-- **`Fragment_Ions_PositiveMode_250803_v1_CorrectedMZ_Fixed.csv`** – Fragment ion data with corrected m/z values (fixed version).
-- **`Fragment_Ions_PositiveMode_250803_v1_CorrectedMZ_Validated.csv`** – Validated fragment ion data with corrected m/z values.
-- **`Fragment_Ions_PositiveMode_250803_v1_CorrectedMZ_Validated_Fixed.csv`** – Final validated and fixed fragment ion data.
-- **`Fragment_Ions_PositiveMode_250803_v1_WithMZ.csv`** – Fragment ion data with m/z values included.
+#### Input Data for Analysis
+- **`dart_td_ms_positive_comprehensive.csv`** - Input file containing compound names and molecular formulas for ChemCalc API analysis
 
-#### Compound Analysis Results
-- **`Compound_Matches_Summary_WithClusters.csv`** – Summary of compound matches across multiple samples with clustering information, including theoretical vs observed m/z values and intensity data.
-- **`Extra_Compound_Matches.csv`** – Additional compound matches not included in the main summary.
-- **`MZ_Matches_Detailed_Analysis.csv`** – Detailed m/z matching results with comprehensive metadata.
-- **`MZ_Matches_Summary.csv`** – Summarized m/z matching results.
-- **`Compound_Validation_Report.csv`** – Validation report for compound identification and matching.
+### ChemCalc Integration Data
+- **`merged_chemcalc_data.json`** - Comprehensive JSON database with isotopic distribution data for 54 compounds, generated from ChemCalc API queries
 
-### Analysis and Visualization Tools
+### Python Analysis Scripts
+- **`Plot_Compounds_Validation_Analysis.py`** - Python script for plotting and analyzing compound validation data
+- **`plot_compounds_json.py`** - Advanced compound analysis tool with automated detection and validation using JSON data
+- **`download_chemcalc_data.py`** - Automated ChemCalc API data downloader with rate limiting and error handling
 
-#### Python Scripts
-- **`Plot_Compounds_Validation_Analysis.py`** – Clean, modular Python script for generating sample vs reference plots for validated compounds. Features include peak detection, compound mapping, and customizable plotting configurations for compounds like Oleic acid, TOP, TOPO, and TOPSe.
-
-### Configuration and Workspace Files
-- **`Bruker_DART_MS_Script.code-workspace`** – VS Code workspace definition for the project.
-- **`README.md`** – This comprehensive documentation file.
+### Configuration Files
+- **`Bruker_DART_MS_Script.code-workspace`** - VS Code workspace configuration file for the project
 
 ## Usage Instructions
 
-### Basic Export
-1. Open *Bruker DataAnalysis* and load the desired `.d` analyses.
-2. Choose the appropriate VBScript file (numbered 01-13) based on your needs.
-3. Run the script from within DataAnalysis.
-4. Output files will be generated in the parent folders of loaded analyses.
+### Basic Data Export
+1. Open Bruker DataAnalysis software
+2. Load your analysis files
+3. Run the appropriate VBScript based on your export needs:
+   - Use scripts 01-03 for basic chromatogram and spectrum export
+   - Use scripts 04-06 for EIC-specific exports
+   - Use scripts 07-09 for batch processing
 
-### EIC Export
-1. Use scripts 04-06 for basic EIC export or scripts 10-13 for advanced compound mapping.
-2. Modify the target m/z values in the script header section.
-3. Adjust tolerance settings and polarity as needed.
-4. Run the script to generate TIC + EIC chromatograms.
-5. Choose between TSV or CSV output formats based on your analysis software.
+### Advanced Analysis
+1. Use scripts 10-13 for compound-specific EIC analysis
+2. Run the Python scripts for data visualization and validation
+3. Utilize the ChemCalc integration for molecular formula analysis
 
-### Batch Processing
-1. Open multiple analyses in DataAnalysis.
-2. Use scripts 07-08 for batch mass list export or scripts 10-13 for batch EIC export.
-3. Run batch scripts to process all open analyses simultaneously.
-4. Check output folders for timestamped results.
+### ChemCalc Integration Workflow
+1. Prepare your compound list in `dart_td_ms_positive_comprehensive.csv`
+2. Run `download_chemcalc_data.py` to fetch isotopic distribution data
+3. Use `plot_compounds_json.py` for advanced compound analysis
+4. Analyze results using the generated JSON database
 
-### Compound Analysis
-1. Use scripts 10-13 with your CSV data files for compound mapping.
-2. Ensure proper file naming conventions for sample identification.
-3. Review validation reports for compound identification accuracy.
+## File Organization
 
-## File Naming Conventions
+The repository is organized with a logical numbering system for VBScripts:
+- **01-03**: Basic export functionality
+- **04-06**: EIC export with different formats
+- **07-09**: Batch processing capabilities
+- **10-13**: Advanced compound analysis features
 
-- **VBScript files**: Numbered 01-13 for easy reference and logical workflow
-- **Timestamped folders**: `YYMMDD_<SampleName>_mass_list_analysis_HHMM`
-- **Export files**: `<analysis-name>_export.tsv` or `<sample>_EICs.csv`
-- **Mass lists**: `Scan_<number>.csv` with zero-padded scan numbers
+Data files are grouped by function:
+- Reference databases (NIST data)
+- Theoretical calculations
+- Input data for analysis
+- Generated analysis results
 
-## Dependencies
+## Requirements
 
-- **Bruker DataAnalysis** software for VBScript execution
-- **Python 3.x** with packages: pymzml, pandas, numpy, scipy, matplotlib (for plotting scripts)
-- **CSV/TSV** compatible software for data analysis (Excel, Origin, etc.)
+- **Bruker DataAnalysis** software (for VBScript execution)
+- **Python 3.x** (for Python analysis scripts)
+- **Required Python packages**: pandas, matplotlib, numpy, requests, json
+- **Internet connection** (for ChemCalc API integration)
 
-## Data Sources
+## Installation
 
-- **Isotopic data**: Based on NIST Atomic Weights and Isotopic Compositions (version 3.0)
-- **Theoretical masses**: Calculated using standard atomic weights and isotopic abundances
-- **Compound identification**: Based on observed m/z values and theoretical calculations
+1. Clone or download this repository
+2. Ensure Bruker DataAnalysis is installed and accessible
+3. Install required Python packages: `pip install pandas matplotlib numpy requests`
+4. Configure your workspace in VS Code if desired
 
 ## Notes
 
-- All VBScript files now have descriptive names and are numbered for easy reference
-- Memory management is critical for large datasets; use batch processing scripts for multiple analyses
-- Tolerance settings can be adjusted based on instrument resolution and analysis requirements
-- Output formats are optimized for compatibility with common data analysis software
-- The new naming convention makes it easy to identify the right tool for your specific needs
+- VBScripts must be run within Bruker DataAnalysis software
+- Python scripts can be run independently for data analysis
+- The ChemCalc integration requires internet connectivity
+- All scripts include error handling and user feedback
 
 ## Support
 

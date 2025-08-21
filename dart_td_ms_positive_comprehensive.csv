@@ -1,0 +1,55 @@
+compound_or_fragment,formula
+Trioctylphosphine (TOP) [M+H]+,C24H52P
+Trioctylphosphine selenide (TOPSe) [M+H]+,C24H52PSe
+Trioctylphosphine oxide (TOPO) [M+H]+,C24H52OP
+Diphenylphosphine (DPP) [M+H]+,C12H12P
+Diphenylphosphine oxide (DPPO) [M+H]+,C12H12OP
+Oleic acid (OA) [M+H]+,C18H35O2
+1-Octadecene (ODE) [M+H]+,C18H37
+Ethylene glycol (EG) [M+H]+,C2H7O2
+Acetonitrile [M+H]+,C2H4N
+n-Hexane [M+H]+ (weak),C6H15
+Toluene [M+H]+ (weak),C7H9
+3-Mercaptopropyltrimethoxysilane (3-MPTMS) [M+H]+,C6H17O3SSi
+3-Mercaptopropylsilanetriol (from 3-MPTMS hydrolysis) [M+H]+,C3H11O3SSi
+Aniline [M+H]+,C6H8N
+Triethanolamine (TEA) [M+H]+,C6H16NO3
+Triethylamine [M+H]+,C6H16N
+Tetrabutylammonium (TBA+) (intrinsic cation),C16H36N
+Ethylenediamine (EDA) [M+H]+,C2H9N2
+Piperidine [M+H]+,C5H12N
+Quinoline [M+H]+,C9H8N
+Coumarin [M+H]+,C9H7O2
+(E)-1-Piperidino-3-(2-hydroxyphenyl)-2-propen-1-one (WPBG-027) [M+H]+,C14H18NO2
+Oleic acid [M+Na]+,C18H34O2Na
+Oleic acid [2M+H]+,C36H69O4
+Oleic acid [2M+Na]+,C36H68O4Na
+Oleic acid [M+NH4]+,C18H38NO2
+Ethylene glycol [M+Na]+,C2H6O2Na
+Ethylene glycol [2M+H]+,C4H13O4
+Ethylene glycol [2M+Na]+,C4H12O4Na
+Ethylene glycol [M+NH4]+,C2H10NO2
+TOPO [M+Na]+,C24H51OPNa
+TOPO [M+NH4]+,C24H55NOP
+DPP [M+Na]+,C12H11PNa
+DPP [M+NH4]+,C12H15NP
+DPPO [M+Na]+,C12H11OPNa
+DPPO [M+NH4]+,C12H15NOP
+3-MPTMS [M+Na]+,C6H16O3SSiNa
+3-MPTMS [M+NH4]+,C6H21NO3SSi
+Tropylium (from toluene),C7H7
+"Phenyl (from aromatics, DPP)",C6H5
+Octyl cation (from TOP/TOPSe/TBA),C8H17
+Butyl cation (from TBA),C4H9
+Oleyl cation (from OA/ODE),C18H37
+Propyl fragment,C3H7
+Pentyl fragment,C5H11
+Hexyl fragment,C6H13
+Heptyl fragment,C7H15
+Nonyl fragment,C9H19
+Undecyl fragment,C11H23
+Dodecyl fragment,C12H25
+Tetradecyl fragment,C14H29
+Protonated methanol (from 3-MPTMS hydrolysis),CH5O
+Protonated ethanolamine fragment,C2H8NO
+Protonated piperidinium-ethylene adduct (trace),C7H16N
